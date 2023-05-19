@@ -1,0 +1,43 @@
+/**
+ * Create variables for the media queries
+ * @param  {string} $breakpoint The breakpoint
+ * @param  {string} $type       Type of media query (min or max)
+ * @param  {string} $unit       The unit for the media queries (em or px)
+ * @return {string}             A media query expression
+ */
+@function md($breakpoint, $type:"min", $unit:"em") {
+
+    @if not map-has-key($breakpoints, $breakpoint) {
+        @warn "No breakpoint found in $breakpoints map for `#{$breakpoint}`. Property omitted.";
+    }
+
+	$value: map-get($breakpoints, $breakpoint);
+
+    @if calc($value / $value) != 1 and $value != 0 {
+        @return $value;
+    }
+
+	@if $unit == "em" {
+
+		$size: calc(calc($value / 16) * 1em);
+
+		@if $type == "min" {
+			@return "(min-width: #{$size})";
+		}
+		@if $type == "max" {
+			@return "not all and (min-width: #{$size})";
+		}
+	}
+
+	@if $unit == "px" {
+
+		$size: calc($value * 1px);
+
+		@if $type == "min" {
+			@return "(min-width: #{$size})";
+		}
+		@if $type == "max" {
+			@return "not all and (min-width: #{$size})";
+		}
+	}
+}

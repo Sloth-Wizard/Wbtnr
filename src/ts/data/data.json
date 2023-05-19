@@ -1,0 +1,2439 @@
+{
+    "episodes": [
+        {
+            "_id": "ARO3P7R6GVH2LLMLFIJF3I4IF4",
+            "type": "story",
+            "content_elements": [{
+                "_id": "THL4HI33YREQ3KS3JRXD7A7CVU",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636385205440,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<i>«Le Ministère Secret a décidé de rendre publics tous ses dossiers sensibles en vue des élections. Les Français sont assez mûrs pour savoir. Non, en vrai ils sont complètement cons mais il faut bien qu’on fasse quelque chose.</i>» (Joann Sfar)"
+            }, {
+                "_id": "AKCOHADLFRD6TGLQUT6M6IUTKQ",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/V2HYowf7ial5IeoJ_PqJ6ixAE-s=/arc-photo-liberation/eu-central-1-prod/public/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "LMS2022-LIBE-010a.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                    "owner": "l.provost@liberation.fr",
+                    "proxyUrl": "/resizer/V2HYowf7ial5IeoJ_PqJ6ixAE-s=/arc-photo-liberation/eu-central-1-prod/public/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/V2HYowf7ial5IeoJ_PqJ6ixAE-s=/arc-photo-liberation/eu-central-1-prod/public/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/mIurA2909ruLUf-40bXDbsRxJO8=/300x0/arc-photo-liberation/eu-central-1-prod/public/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                    "version": 1,
+                    "template_id": 183,
+                    "_id": "G4OCXE4TOFDPBO2OFQGS667FXY",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-17T09:48:52Z",
+                "credits": {
+                    "affiliation": []
+                },
+                "height": 3802,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-17T09:49:54Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/AKCOHADLFRD6TGLQUT6M6IUTKQ.jpg",
+                "version": "0.10.3",
+                "width": 981,
+                "syndication": {},
+                "resized_params": {
+                    "84x56": "d1kSbyGKcXTzZ18V29uhskBiioM=filters:format(jpg):quality(70)/",
+                    "105x70": "APq5wpWqbhCKTuv7rvB4rllIpmM=filters:format(jpg):quality(70)/",
+                    "158x105": "1oLzRjGVI9EIi5VkAEAukXUUAfo=filters:format(jpg):quality(70)/",
+                    "274x183": "TISG7BEdwWm30FaqMaijcjzOrNI=filters:format(jpg):quality(70)/",
+                    "377x251": "F1QT5kB6hFLu90H5bUQz5btqROc=filters:format(jpg):quality(70)/",
+                    "400x267": "f9wIKOb-lwjO8WHjZEfhJW_WSNw=filters:format(jpg):quality(70)/",
+                    "600x400": "c_TM1vdE6A2FyHZSf0saGAiSUc0=filters:format(jpg):quality(70)/",
+                    "768x512": "COtz-p2w4oB1CiCFmPsFpp3wyro=filters:format(jpg):quality(70)/",
+                    "800x533": "UqLFDrMckTss8dr6rW61tCcaVtM=filters:format(jpg):quality(70)/",
+                    "1024x683": "SYM7cW79RQkIKTJ5Joh931n_08Y=filters:format(jpg):quality(70)/",
+                    "1440x960": "ueTcL1YmzW7x67uRkHOmZIURq7A=filters:format(jpg):quality(70)/",
+                    "1600x1067": "l1wXlBK30bl_NKecW1oCGnQ8_XQ=filters:format(jpg):quality(70)/",
+                    "84x63": "xlKkf9dRGGpWE1cO_GSrVo6-Nh0=filters:format(jpg):quality(70)/",
+                    "105x79": "rNqvqcJjIuu2NQ3_nEGo_u4IHz8=filters:format(jpg):quality(70)/",
+                    "158x119": "bgAcMKW25X0S8ulgHQd3NJRmPVQ=filters:format(jpg):quality(70)/",
+                    "274x206": "b7lRLJNjgyGlABbLx1UnOZhWcTI=filters:format(jpg):quality(70)/",
+                    "377x283": "SV3ephEzX3ab8KmtY5dtncd-dI4=filters:format(jpg):quality(70)/",
+                    "400x300": "J3KFvedhhIjCPpwO75DBWOzCPj8=filters:format(jpg):quality(70)/",
+                    "600x450": "MxDjEHRGJ8utHJ0HwSaktfUGi3w=filters:format(jpg):quality(70)/",
+                    "768x576": "b4NpLMfvJFnWTesMcPKbCTMcd7U=filters:format(jpg):quality(70)/",
+                    "800x600": "tvIjh5B77b_0WZ6Fa243ZLfG3VY=filters:format(jpg):quality(70)/",
+                    "1024x768": "B6nXK3jtYzvBxu1M56M9gra00xU=filters:format(jpg):quality(70)/",
+                    "1440x1080": "RpDQbTkHZp8888z2hTuv7Js0Kqg=filters:format(jpg):quality(70)/",
+                    "1600x1200": "ZEzdoeSwPBiA0Irk41fJgqc-I9g=filters:format(jpg):quality(70)/",
+                    "84x0": "3-Q-rAUl6KCIcLSzo0SRie4mZY0=filters:format(jpg):quality(70)/",
+                    "105x0": "z42OLgxHQDMeNyVXRS3wxrkYugg=filters:format(jpg):quality(70)/",
+                    "158x0": "mjbJO3iCeLXSU8oJ0H8pUbk1ASo=filters:format(jpg):quality(70)/",
+                    "274x0": "SBTH_3J2l03Cdu22uRyCk5tN-TA=filters:format(jpg):quality(70)/",
+                    "377x0": "uj27KmR-E0P2IvZ4HmhZd45h1WI=filters:format(jpg):quality(70)/",
+                    "400x0": "fxgsy5sBRxY9SozzjFlAqtdehWg=filters:format(jpg):quality(70)/",
+                    "600x0": "2RbGr8O8nysu6q1Ecr0mllNBgYg=filters:format(jpg):quality(70)/",
+                    "768x0": "noHDMzN-PYIN4sx97F-JS5HVx5g=filters:format(jpg):quality(70)/",
+                    "800x0": "O5sWJwNi--Hy4BmwsoNA1yb5IOc=filters:format(jpg):quality(70)/",
+                    "1024x0": "Aag19BL_9VVk7s-a-VrGXNYsfnA=filters:format(jpg):quality(70)/",
+                    "1440x0": "TJNfJ-N5-wMMOa9q_UrgeLiYPzs=filters:format(jpg):quality(70)/",
+                    "1600x0": "cJHebVqx-wyg9jnt9GwSzaTQkP0=filters:format(jpg):quality(70)/",
+                    "84x47": "59-ncYF0QC4Hn5wMqXjAM2X-ZP8=filters:format(jpg):quality(70)/",
+                    "105x59": "Fh7LlyP7kU_a4QkgHptuJnJxwLE=filters:format(jpg):quality(70)/",
+                    "158x89": "Me4Rek-KvItLLTNms7Q1h3LaqZ4=filters:format(jpg):quality(70)/",
+                    "274x154": "1e_nqtLj9zI0PcRjDn2RBoyv580=filters:format(jpg):quality(70)/",
+                    "377x212": "p-dz9WMNbL1j99qP4DbTVSbPVik=filters:format(jpg):quality(70)/",
+                    "400x225": "25Migh8ni3SG_6jS-pXxfS7u2kw=filters:format(jpg):quality(70)/",
+                    "600x338": "3H9CJUAHVSOovxxQBWoHGw17ACw=filters:format(jpg):quality(70)/",
+                    "768x432": "Th4d3MFPFiaaCibSzAmhX2YQqGM=filters:format(jpg):quality(70)/",
+                    "800x450": "eNM_aF7uTKYBsoC4693JtDWnac4=filters:format(jpg):quality(70)/",
+                    "1024x576": "1zMrXJAkn-X2aDHe8Gsj1sLO3BY=filters:format(jpg):quality(70)/",
+                    "1440x810": "8Vtu8Bx_3SdCNmU56etdzSGfkWQ=filters:format(jpg):quality(70)/",
+                    "1600x900": "av781XLzR4F8Ia5Bl673nTTQM1M=filters:format(jpg):quality(70)/",
+                    "84x84": "Q8ni3VlWFYVTVaS3ZuamBufGbOM=filters:format(jpg):quality(70)/",
+                    "105x105": "t7rBDTLuI7llgGEm0kVH-sedAss=filters:format(jpg):quality(70)/",
+                    "158x158": "8Btc0Uxt7PdgLRvHgqfcbAdhMWQ=filters:format(jpg):quality(70)/",
+                    "274x274": "R3yT3Ov3KXDumnNcZpJ9YueUHG0=filters:format(jpg):quality(70)/",
+                    "377x377": "CbGkN50sUpU35IlpnFzmFZKy5Bc=filters:format(jpg):quality(70)/",
+                    "400x400": "LlBMinh9KTSVsMrKOOKK1T7zxLo=filters:format(jpg):quality(70)/",
+                    "600x600": "hpELT5rLHTrQp3qv0nNCdug93C0=filters:format(jpg):quality(70)/",
+                    "768x768": "F2cltVdZ355HFdkJsbAbUlQDjHU=filters:format(jpg):quality(70)/",
+                    "800x800": "LvK3mDT2T5DEPZH8KRzI2U5y2Bk=filters:format(jpg):quality(70)/",
+                    "1024x1024": "cv_UeMY9KThQuj8LP2_0qSqTzSI=filters:format(jpg):quality(70)/",
+                    "1440x1440": "AYRYg_g4C3n8fh1mtzo9G-ivOhs=filters:format(jpg):quality(70)/",
+                    "1600x1600": "GOhDx1SMV2kdcdq_vdFGKQaaAKs=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "5G2QTOOQ4BGYBBLYFJW57HOWG4",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/KhszFJ8uoA_4tKwuPRgXTFyj3K0=/arc-photo-liberation/eu-central-1-prod/public/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "LMS2022-LIBE-010b.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                    "owner": "l.provost@liberation.fr",
+                    "proxyUrl": "/resizer/KhszFJ8uoA_4tKwuPRgXTFyj3K0=/arc-photo-liberation/eu-central-1-prod/public/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/KhszFJ8uoA_4tKwuPRgXTFyj3K0=/arc-photo-liberation/eu-central-1-prod/public/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/xtVrVV19vgabGmL2aiXUfvX3anY=/300x0/arc-photo-liberation/eu-central-1-prod/public/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                    "version": 1,
+                    "template_id": 183,
+                    "_id": "H4XN6L6WGNCYVDBAJ2VV2PPUPU",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-17T09:49:44Z",
+                "credits": {
+                    "affiliation": []
+                },
+                "height": 4113,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-17T09:49:54Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/5G2QTOOQ4BGYBBLYFJW57HOWG4.jpg",
+                "version": "0.10.3",
+                "width": 981,
+                "syndication": {},
+                "resized_params": {
+                    "84x56": "vsIq6VwUuEsUM6npAb0wikJBot0=filters:format(jpg):quality(70)/",
+                    "105x70": "W-OgNUo0YTCeb6kWGazfrFSGPWw=filters:format(jpg):quality(70)/",
+                    "158x105": "FWLG0zFti2J2VxgIWT__zYv0HUE=filters:format(jpg):quality(70)/",
+                    "274x183": "DbKt-IYATPjhQkKHkSwLjDNR-5w=filters:format(jpg):quality(70)/",
+                    "377x251": "lf9H8wVIwiMD4Qt5-qxe5ANbmpY=filters:format(jpg):quality(70)/",
+                    "400x267": "ABMQiEoxTj06NJGVQ3cKs2_4foY=filters:format(jpg):quality(70)/",
+                    "600x400": "nl0C4vnoZlwRCyjcjriu3cjpLu8=filters:format(jpg):quality(70)/",
+                    "768x512": "8l8BM2WSJJ99O2jpfBn5qDBd0zc=filters:format(jpg):quality(70)/",
+                    "800x533": "7sABBDpLNcAtQ7_j65_ynxQ_F_o=filters:format(jpg):quality(70)/",
+                    "1024x683": "_0ISlOngsWi0SJbApUdHgchA2nc=filters:format(jpg):quality(70)/",
+                    "1440x960": "sxhuUjk-bVAXjWkD5Ud4ez1ybSI=filters:format(jpg):quality(70)/",
+                    "1600x1067": "Ylf2VdtvXe8ao226uPb4s29WOVo=filters:format(jpg):quality(70)/",
+                    "84x63": "OTnGtW4KgD7zRCVPU_j8ut8BAx8=filters:format(jpg):quality(70)/",
+                    "105x79": "fnQtJ0P4PEtLf9cJUhnA3NlWdOw=filters:format(jpg):quality(70)/",
+                    "158x119": "belFax6moQ58_pCMSI7_20mbMTo=filters:format(jpg):quality(70)/",
+                    "274x206": "t7EGhdGymuBdnQrO-5mokAa_ebs=filters:format(jpg):quality(70)/",
+                    "377x283": "DwuGbxRWhoSK3JfIuMCFFtAEbV0=filters:format(jpg):quality(70)/",
+                    "400x300": "JCEWLM2ISpzu6IvatuDDqAJ-do4=filters:format(jpg):quality(70)/",
+                    "600x450": "XL0GZKeFexc1M65q4fyUCOXpW6U=filters:format(jpg):quality(70)/",
+                    "768x576": "Z95_EbZ53WORUyobqleirV7XyOg=filters:format(jpg):quality(70)/",
+                    "800x600": "gU3DkDlNZm_bJGkIPSbX9CjYM5Q=filters:format(jpg):quality(70)/",
+                    "1024x768": "B6otSJppW6XXl_A8375IDiI6mlI=filters:format(jpg):quality(70)/",
+                    "1440x1080": "jxglGZeGhh_lV8EfvdD3p5zyDbk=filters:format(jpg):quality(70)/",
+                    "1600x1200": "VYnd1CxPJO4dtiJjyK7cJK5TEkQ=filters:format(jpg):quality(70)/",
+                    "84x0": "bOeT_8fpc0P9DKB90FiRH5IV8Zs=filters:format(jpg):quality(70)/",
+                    "105x0": "g2APAmwA5-0fIm8cbdBhY9ps9ZM=filters:format(jpg):quality(70)/",
+                    "158x0": "-hS9QgIlMwZb5DjdAbecbyK4-78=filters:format(jpg):quality(70)/",
+                    "274x0": "JFDQl3yUUmvdQL1i1McmqfavLZw=filters:format(jpg):quality(70)/",
+                    "377x0": "W0s5A7vYD2eb0a0xbcAxed32w7A=filters:format(jpg):quality(70)/",
+                    "400x0": "AV7Brby-bLmNhMx7Q0mU1UsyteY=filters:format(jpg):quality(70)/",
+                    "600x0": "RsYRDCQFzQ7xcEf330ohBgBQ0Vw=filters:format(jpg):quality(70)/",
+                    "768x0": "vqJ3tmUZZrQ1DbnAFMHV-8ETs_0=filters:format(jpg):quality(70)/",
+                    "800x0": "qfNbqJico26KdIvzpkueV7rBLTY=filters:format(jpg):quality(70)/",
+                    "1024x0": "4Qo2ys9-pOi2W8A82dfTiSnSbeo=filters:format(jpg):quality(70)/",
+                    "1440x0": "UeTKTKEg2ewpWUfjCHZjcxW6Ffs=filters:format(jpg):quality(70)/",
+                    "1600x0": "s_E0aNaN1V4Wt_Vo5ZVzPszhG5c=filters:format(jpg):quality(70)/",
+                    "84x47": "ZBZBiXABLUlnvOA5agPUssOL5Zo=filters:format(jpg):quality(70)/",
+                    "105x59": "5ymtGBhe7bbj1YNcNNsh1Weuye4=filters:format(jpg):quality(70)/",
+                    "158x89": "kSeYrwQHg0af89zTJi1dbk4E2ys=filters:format(jpg):quality(70)/",
+                    "274x154": "bCpTEXHQWKjjcQp0ROzENARVKgo=filters:format(jpg):quality(70)/",
+                    "377x212": "UL5celG2kxc-Qnw1u20yEnKxKsU=filters:format(jpg):quality(70)/",
+                    "400x225": "Gtxh4et2Hb68mQdAVUv23m8PTmE=filters:format(jpg):quality(70)/",
+                    "600x338": "bMLMpec1S8RHqBu6x1SqXM7SzH8=filters:format(jpg):quality(70)/",
+                    "768x432": "pJw6kESMMIFZJnZHm-mPTG0R61g=filters:format(jpg):quality(70)/",
+                    "800x450": "VMa1Awdpx7_I_PmE6eJuHlIQXJU=filters:format(jpg):quality(70)/",
+                    "1024x576": "XZmFwRFgCaWAWuSqSMcl_vEEOTs=filters:format(jpg):quality(70)/",
+                    "1440x810": "mSy5ci7B7XTh7dLVk-M3QHmVPcc=filters:format(jpg):quality(70)/",
+                    "1600x900": "6kcaQxN-FPXNA3bkqTNlpM0ooZc=filters:format(jpg):quality(70)/",
+                    "84x84": "Eb5czIYkyNlln61elzUcMMIDtQE=filters:format(jpg):quality(70)/",
+                    "105x105": "w_7HX65alTjksxgjS3WH4cN7Ovk=filters:format(jpg):quality(70)/",
+                    "158x158": "1CHDmAzs6sg3M9AdtSJNPNoO6J4=filters:format(jpg):quality(70)/",
+                    "274x274": "-36fmQi7Lk7g429S0qye_9mJluc=filters:format(jpg):quality(70)/",
+                    "377x377": "I3vgXO7abSAwz7_RobBdgcLLLMM=filters:format(jpg):quality(70)/",
+                    "400x400": "M1PL75l0uICVOWVtOHmCuaaRud0=filters:format(jpg):quality(70)/",
+                    "600x600": "L0VyejQjxVRfAcJzmbr_Ae5tthY=filters:format(jpg):quality(70)/",
+                    "768x768": "ARSpNWMA4vt3eOpra0vVXixXR0I=filters:format(jpg):quality(70)/",
+                    "800x800": "bmuz9XD-UkpdEqvA_5gc3AprmTo=filters:format(jpg):quality(70)/",
+                    "1024x1024": "yz1QfLAh-NyTRWpI_zIrgiYoMGc=filters:format(jpg):quality(70)/",
+                    "1440x1440": "F2UNyhj3FH_LRdHw9KHJQQqbMqA=filters:format(jpg):quality(70)/",
+                    "1600x1600": "s2d6bDt1IBBYCw56E2eC0MUjhYw=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "KJ3DUUX4MBATZGTR3BNQAFKOYM",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636388645687,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<b>Episode suivant: </b><a href=\"https://www.liberation.fr/politique/elections/ministere-secret-francois-hollande-et-nicolas-sarkozy-plantent-mathieu-sapin-20211115_3PRPXVOEG5ATXIXMI3DPQVKCXY/\" target=\"_blank\"><b>François Hollande et Nicolas Sarkozy plantent Mathieu Sapin </b></a>"
+            }, {
+                "_id": "BBTCFFROYBHZVISHKTJJUHQBME",
+                "type": "link_list",
+                "subtype": "title_only",
+                "additional_properties": {
+                    "_id": "GNFI2FKLA5BL7LEVSIZZK7PM3M",
+                    "comments": []
+                },
+                "title": "Si vous avez raté le début",
+                "items": [{
+                    "_id": "CJSCNTKKSBAGLIQUBXC2K2E4J4",
+                    "content": "Comment François Hollande, Nicolas Sarkozy et Mathieu Sapin se sont retrouvés à enquêter sur la présidentielle avec «Libé»",
+                    "description": {
+                        "_id": "F37OMB5YJBDPTPYRBHBSOGI53Y",
+                        "content": "",
+                        "type": "text"
+                    },
+                    "type": "interstitial_link",
+                    "url": "https://www.liberation.fr/politique/elections/comment-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-se-sont-retrouves-a-enqueter-sur-la-presidentielle-avec-libe-20211105_72MZPQ2Q7JB2ZINOCIALUWC55U/"
+                }]
+            }, {
+                "_id": "LCWWQR3B2VEX5FDXBQW4J5JBMM",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1637170968569,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<br/>"
+            }, {
+                "_id": "F4EGO3TNW5EVTNJW3GEOIUBTWM",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636388645690,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<br/>"
+            }, {
+                "_id": "TJJADXGH4RBXRDUTWUCXGUFJOQ",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636385205441,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<br/>"
+            }, {
+                "_id": "EB7RWYNVBFGLXB2CXQUUVJTOBM",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636385205442,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<br/>"
+            }],
+            "created_date": "2021-11-08T15:17:47.742Z",
+            "last_updated_date": "2021-12-06T14:02:19.099Z",
+            "headlines": {
+                "basic": "«Ministère Secret»: François Hollande, Nicolas Sarkozy et Mathieu Sapin réindustrialisent la France",
+                "meta_title": "",
+                "mobile": "",
+                "native": "",
+                "print": "",
+                "tablet": "",
+                "web": ""
+            },
+            "owner": {
+                "sponsored": false,
+                "id": "liberation"
+            },
+            "content_restrictions": {
+                "content_code": "ouvert"
+            },
+            "subheadlines": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec des strips inédits en réaction à l’actualité de la campagne présidentielle. Ces «enquêtes présidentielles» mettent en scène Mathieu Sapin, François Hollande et Nicolas Sarkozy, tous trois héros de la série «Le Ministère secret» aux éditions Dupuis. Vous les retrouverez toutes les semaines, puis quotidiennement à partir de janvier."
+            },
+            "description": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de « Libération » avec des strips inédits en réaction à l’actualité de la présidentielle."
+            },
+            "language": "",
+            "label": {
+                "basic": {
+                    "display": true,
+                    "text": "BD, épisode 1"
+                }
+            },
+            "source": {
+                "name": "liberation",
+                "source_type": "staff",
+                "system": "composer"
+            },
+            "taxonomy": {
+                "sections": [{
+                    "_id": "/politique/elections",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Elections",
+                    "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                    "path": "/politique/elections",
+                    "parent_id": "/politique",
+                    "parent": {
+                        "default": "/politique"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique/elections",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Elections : sondages, dates et résultats - Libération",
+                                "site_about": "",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": ""
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": null
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique/elections", "200002"]
+                            },
+                            "_website": "liberation",
+                            "name": "Elections",
+                            "order": {
+                                "default": 2001,
+                                "burgermenu": 2001,
+                                "headernav": 2001,
+                                "amp-menu": 2001,
+                                "footer": 3001,
+                                "footer2": 2002
+                            },
+                            "parent": {
+                                "default": "/politique",
+                                "burgermenu": "/politique",
+                                "footer": "/politique",
+                                "headernav": "/politique",
+                                "amp-menu": "/politique",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": ["/politique"],
+                                "burgermenu": ["/", "/politique"],
+                                "footer": ["/", "/rubriques", "/politique"],
+                                "headernav": ["/politique"],
+                                "amp-menu": ["/", "/politique"],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique/elections"
+                }, {
+                    "_id": "/politique",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Politique",
+                    "description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                    "path": "/politique",
+                    "parent_id": "/",
+                    "parent": {
+                        "default": "/"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Toute l'actualité Politique en continu avec Libération",
+                                "site_about": null,
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "Politique"
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique", "100666"]
+                            },
+                            "_website": "liberation",
+                            "name": "Politique",
+                            "order": {
+                                "default": 1002,
+                                "amp-menu": 1002,
+                                "burgermenu": 1003,
+                                "accueil-tag-block": 1001,
+                                "headernav": 1002,
+                                "footer": 2001,
+                                "footer2": 2001
+                            },
+                            "parent": {
+                                "default": "/",
+                                "amp-menu": "/",
+                                "footer-nav-bar": null,
+                                "burgermenu": "/",
+                                "footer": "/rubriques",
+                                "accueil-tag-block": "/",
+                                "Test": null,
+                                "headernav": "/",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": [],
+                                "amp-menu": ["/"],
+                                "footer-nav-bar": [],
+                                "burgermenu": ["/"],
+                                "footer": ["/", "/rubriques"],
+                                "accueil-tag-block": ["/"],
+                                "Test": [],
+                                "headernav": [],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique"
+                }, {
+                    "_id": "/culture/bd",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "BD",
+                    "description": "Les dernières nouveautés en bandes dessinées et les sorties BD de la semaine sont à retrouver dans Libération.",
+                    "path": "/culture/bd",
+                    "parent_id": "/culture",
+                    "parent": {
+                        "default": "/culture"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/culture/bd",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Bande dessinée : l’actu BD et les nouveautés Libération",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_about": null,
+                                "site_description": "Les dernières nouveautés en bandes dessinées et les sorties BD de la semaine sont à retrouver dans Libération.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "BD"
+                            },
+                            "_admin": {
+                                "alias_ids": ["/culture/bd", "200048"]
+                            },
+                            "_website": "liberation",
+                            "name": "BD",
+                            "order": {
+                                "burgermenu": 2007,
+                                "amp-menu": 2007,
+                                "footer": 2001
+                            },
+                            "parent": {
+                                "default": "/culture",
+                                "burgermenu": "/culture",
+                                "amp-menu": "/culture",
+                                "footer": "/culture",
+                                "footer2": "/culture"
+                            },
+                            "ancestors": {
+                                "default": ["/culture"],
+                                "burgermenu": ["/", "/culture"],
+                                "amp-menu": ["/", "/culture"],
+                                "footer": ["/", "/rubriques", "/culture"],
+                                "footer2": ["/culture"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./culture/bd"
+                }, {
+                    "_id": "/culture",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Culture",
+                    "description": "Retrouvez toute l'actualité culturelle avec Libération : cinéma, musique, livres, photographie, scènes et arts, les infos sur les séries ou encore sur les jeux vidéos.",
+                    "path": "/culture",
+                    "parent_id": "/",
+                    "parent": {
+                        "default": "/"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/culture",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Culture, livres, tendances, mode, cinéma, musique... - Libération",
+                                "site_about": null,
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "Retrouvez toute l'actualité culturelle avec Libération : cinéma, musique, livres, photographie, scènes et arts, les infos sur les séries ou encore sur les jeux vidéos.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": null
+                            },
+                            "_admin": {
+                                "alias_ids": ["/culture", "54"]
+                            },
+                            "_website": "liberation",
+                            "name": "Culture",
+                            "order": {
+                                "burgermenu": 1006,
+                                "default": 1006,
+                                "headernav": 1005,
+                                "amp-menu": 1009,
+                                "footer": 2004,
+                                "footer2": 1005
+                            },
+                            "parent": {
+                                "default": "/",
+                                "burgermenu": "/",
+                                "footer": "/rubriques",
+                                "headernav": "/",
+                                "amp-menu": "/",
+                                "footer2": "/"
+                            },
+                            "ancestors": {
+                                "default": ["/"],
+                                "burgermenu": ["/"],
+                                "footer": ["/", "/rubriques"],
+                                "headernav": ["/"],
+                                "amp-menu": ["/"],
+                                "footer2": ["/"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./culture"
+                }],
+                "tags": [{
+                    "description": "La prochaine élection présidentielle aura lieu les 10 et 24 avril 2022. En attendant qu'Emmanuel Macron confirme sa volonté de rempiler, plusieurs candidats sont déjà en campagne : Marine Le Pen, Jean-Luc Mélenchon, Fabien Roussel, Anne Hidalgo, Arnaud Montebourg, Yannick Jadot, Philippe Poutou, Nathalie Arthaud... La droite doit encore désigner le sien en décembre : Xavier Bertrand et Valérie Pécresse se battent pour l'investiture. Pas encore candidat mais faisant tout comme, Eric Zemmour veut bousculer à l'extrême droite.",
+                    "slug": "election-presidentielle-2022",
+                    "text": "Election Présidentielle 2022"
+                }, {
+                    "description": "Nicolas Sarkozy",
+                    "slug": "nicolas-sarkozy",
+                    "text": "Nicolas Sarkozy"
+                }, {
+                    "description": "François Hollande",
+                    "slug": "francois-hollande",
+                    "text": "François Hollande"
+                }, {
+                    "description": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec la publication de strips inédits en résonnance avec l’actualité de la campagne pour l’élection présidentielle.",
+                    "slug": "ministere-secret-les-enquetes-presidentielles-de-mathieu-sapin-et-joann-sfar",
+                    "text": "Ministère secret : les «Enquêtes présidentielles» de Mathieu Sapin et Joann Sfar"
+                }]
+            },
+            "promo_items": {
+                "basic": {
+                    "_id": "RHPQYA5ZRFHFRJMSPJ6QFBXZSQ",
+                    "additional_properties": {
+                        "fullSizeResizeUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "galleries": [],
+                        "ingestionMethod": "manual",
+                        "keywords": [""],
+                        "mime_type": "image/jpeg",
+                        "originalName": "Visuel appel MINISTERE SECRET.jpg",
+                        "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "owner": "g.dhers@liberation.fr",
+                        "proxyUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "published": true,
+                        "resizeUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "restricted": false,
+                        "thumbnailResizeUrl": "/resizer/jL8mheAOymJkhccwHnx-MpRVD7o=/300x0/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "version": 2,
+                        "template_id": 183
+                    },
+                    "address": {},
+                    "created_date": "2021-11-04T17:05:56Z",
+                    "credits": {
+                        "by": []
+                    },
+                    "geo": {},
+                    "height": 1031,
+                    "image_type": "photograph",
+                    "last_updated_date": "2021-11-15T13:24:52Z",
+                    "licensable": false,
+                    "owner": {
+                        "id": "liberation",
+                        "sponsored": false
+                    },
+                    "source": {
+                        "additional_properties": {
+                            "editor": "photo center"
+                        },
+                        "edit_url": "",
+                        "system": "photo center"
+                    },
+                    "taxonomy": {
+                        "associated_tasks": []
+                    },
+                    "resized_params": {
+                        "84x56": "vm1xoyo-pv4-Q2Bv44S6i_XWOt8=filters:format(jpg):quality(70)/",
+                        "105x70": "BcBt98gB_IO6qyyh8pZg3RhUA0M=filters:format(jpg):quality(70)/",
+                        "158x105": "f0AO3WO0z8GkWrpD4nSgNIqjcxY=filters:format(jpg):quality(70)/",
+                        "274x183": "yXIXp8ZAlmjxzYRy4WbkGxKkq-o=filters:format(jpg):quality(70)/",
+                        "377x251": "i-3YQLLF54cwgMAPL47j7JEf3AE=filters:format(jpg):quality(70)/",
+                        "400x267": "bWm1b9lGxCpvfT9cB86ZSLK3akE=filters:format(jpg):quality(70)/",
+                        "600x400": "LTOJYML0vd5r0gkGiczThJTMhcA=filters:format(jpg):quality(70)/",
+                        "768x512": "nNRmGeAQw4JdlhpkSJ_dzdcHFek=filters:format(jpg):quality(70)/",
+                        "800x533": "2ECC4gpywro87eGUp1ps3L5iirU=filters:format(jpg):quality(70)/",
+                        "1024x683": "m-7YUkjVD57zyszzbRnZHiIfOxI=filters:format(jpg):quality(70)/",
+                        "1440x960": "YMrB_01-wKluQ8NfLU0_8Tzta9o=filters:format(jpg):quality(70)/",
+                        "1600x1067": "z3JFVedtRmdirdO8PQdjJn9MVJI=filters:format(jpg):quality(70)/",
+                        "84x63": "2Ncs1wMW314eA9siKfHKquPNQto=filters:format(jpg):quality(70)/",
+                        "105x79": "H1JISmsMnIwmgL23wd0kgFROuIs=filters:format(jpg):quality(70)/",
+                        "158x119": "mnZ3rhuEzTi_Rl0XmzT_y0xPyKM=filters:format(jpg):quality(70)/",
+                        "274x206": "IOLkqSRHcZJJnQRbktHxyTmOTMg=filters:format(jpg):quality(70)/",
+                        "377x283": "C574LBDm94dZxI390PDgEptZNmU=filters:format(jpg):quality(70)/",
+                        "400x300": "-2KyWkSXSnOqvkL7YYOd6iPfC6Y=filters:format(jpg):quality(70)/",
+                        "600x450": "kS9P6iJS0sn-qCq-hDCaQE_bMuQ=filters:format(jpg):quality(70)/",
+                        "768x576": "zJyoZ5q3b-dLWkq39FzKsVDryBU=filters:format(jpg):quality(70)/",
+                        "800x600": "BueBQXbdzvdm9fipRCf929hi3po=filters:format(jpg):quality(70)/",
+                        "1024x768": "RXDMEVdUALe55C4AfyVuyi9A0CI=filters:format(jpg):quality(70)/",
+                        "1440x1080": "MyGw8kNlNFK2WzQNKLWHRBRiTVs=filters:format(jpg):quality(70)/",
+                        "1600x1200": "I1ArF53g8p-BHnYGBq2NDt30mbM=filters:format(jpg):quality(70)/",
+                        "84x0": "fqWR7Va7C6zdKuU8FXIPe5UHKyI=filters:format(jpg):quality(70)/",
+                        "105x0": "_vHdeeU8H5VW6bncAGQ_Aeexx6I=filters:format(jpg):quality(70)/",
+                        "158x0": "QTzW1-XvzbMXcFew7bQX3_Afcpw=filters:format(jpg):quality(70)/",
+                        "274x0": "xUKCPlAE47D_V5_Doxp_e4vOH00=filters:format(jpg):quality(70)/",
+                        "377x0": "-WmHZq8WmBtNoDBELIJ4x-6dQl0=filters:format(jpg):quality(70)/",
+                        "400x0": "OoUQ4Zq200z86qDKp6AUxDXHXM0=filters:format(jpg):quality(70)/",
+                        "600x0": "_5YWk4X8igSNyTtFCV4IcbXXafM=filters:format(jpg):quality(70)/",
+                        "768x0": "XGDuzNclLupMRPYMlDozRgyd_HI=filters:format(jpg):quality(70)/",
+                        "800x0": "TcMuxJggBb0UPyn0F10I7YAbLDU=filters:format(jpg):quality(70)/",
+                        "1024x0": "52GbHv_xwTGl5Wa5su5WCt_4JaY=filters:format(jpg):quality(70)/",
+                        "1440x0": "tmafq_YKK_NNhHWlRIiYLcFclvg=filters:format(jpg):quality(70)/",
+                        "1600x0": "TzwmZ52Ed62GxyToa0eqCKJe8LM=filters:format(jpg):quality(70)/",
+                        "84x47": "gZ1YjbsF30QziBv7KsoydSO02HI=filters:format(jpg):quality(70)/",
+                        "105x59": "p5qOBJkMYpaSu1RgcwFUTELPYME=filters:format(jpg):quality(70)/",
+                        "158x89": "YNJIIhS2nwsFcr7Ry6Qg13uEAmw=filters:format(jpg):quality(70)/",
+                        "274x154": "SwgqRNeBMZX8a-OC0THGT9WmzoM=filters:format(jpg):quality(70)/",
+                        "377x212": "nsBRnniFrfRI9we-q2dbG8WLLUQ=filters:format(jpg):quality(70)/",
+                        "400x225": "wLaO5BTpHWvrOWedP6t4wLF5mcA=filters:format(jpg):quality(70)/",
+                        "600x338": "OkPyZ9RM740i7zpChtaTfPc5NpM=filters:format(jpg):quality(70)/",
+                        "768x432": "WKNmY-X3P1q4_Yj6y9xt-NSNAL4=filters:format(jpg):quality(70)/",
+                        "800x450": "7X-ncMZ_G690sl5FMwubwkOVZ60=filters:format(jpg):quality(70)/",
+                        "1024x576": "NP9CcQo4CeCroqdRxsbIlGVNVaM=filters:format(jpg):quality(70)/",
+                        "1440x810": "01f61NgjTxmj0wQ4cbCuqFcJEI4=filters:format(jpg):quality(70)/",
+                        "1600x900": "gQJ_74Y6P7RPR7XyKKgLF4WhNmw=filters:format(jpg):quality(70)/",
+                        "84x84": "TiLb__P7Th7hObpPc5zd-35_1k0=filters:format(jpg):quality(70)/",
+                        "105x105": "wnNGBpxCNeREZDxAI5QGZM4bRsM=filters:format(jpg):quality(70)/",
+                        "158x158": "NwfnpaRIlLPl4Hpx9ak5gveKE7w=filters:format(jpg):quality(70)/",
+                        "274x274": "JyN1d6sAe25RsE3uYlChTNv6seQ=filters:format(jpg):quality(70)/",
+                        "377x377": "qibfnjoa-ZjfE3stJ86WstDSYtA=filters:format(jpg):quality(70)/",
+                        "400x400": "dDRKHA-CNkUvNfDD-uwL51UEqDw=filters:format(jpg):quality(70)/",
+                        "600x600": "8b_1pBQhoEn29TksctxxLPBDFYg=filters:format(jpg):quality(70)/",
+                        "768x768": "nfZo-6paDsxozg-Ykc2r-ZYlK2Q=filters:format(jpg):quality(70)/",
+                        "800x800": "fS-No5ljbkt4Rci4nE1Zm5qqkdk=filters:format(jpg):quality(70)/",
+                        "1024x1024": "dhzfYF7SCXRrOptbEsCWIftltrw=filters:format(jpg):quality(70)/",
+                        "1440x1440": "3sM5C5v8vEYaFcJdwDQ_m_amsNU=filters:format(jpg):quality(70)/",
+                        "1600x1600": "POMKoDR2aN7w2vt3_BI68XIpQvU=filters:format(jpg):quality(70)/"
+                    },
+                    "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                    "type": "image",
+                    "version": "0.10.3",
+                    "width": 1629,
+                    "syndication": {}
+                }
+            },
+            "related_content": {
+                "basic": [],
+                "redirect": []
+            },
+            "distributor": {
+                "category": "staff",
+                "name": "liberation",
+                "subcategory": ""
+            },
+            "canonical_website": "liberation",
+            "geo": {},
+            "planning": {
+                "internal_note": "",
+                "scheduling": {
+                    "planned_publish_date": "2021-11-08T16:12:00.000Z"
+                },
+                "story_length": {
+                    "character_count_actual": 314,
+                    "character_encoding": "UTF-16",
+                    "inch_count_actual": 1,
+                    "line_count_actual": 3,
+                    "word_count_actual": 50
+                }
+            },
+            "display_date": "2021-11-08T16:37:51.166Z",
+            "credits": {
+                "by": [{
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Joan Sfar",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }, {
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Mathieu Sapin",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }]
+            },
+            "subtype": "default",
+            "first_publish_date": "2021-11-08T16:37:51.166Z",
+            "websites": {
+                "liberation": {
+                    "website_section": {
+                        "_id": "/politique/elections",
+                        "_website": "liberation",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Elections",
+                        "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                        "path": "/politique/elections",
+                        "parent_id": "/politique",
+                        "parent": {
+                            "default": "/politique"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/politique/elections",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Elections : sondages, dates et résultats - Libération",
+                                    "site_about": "",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                    "site_keywords": null
+                                },
+                                "site_topper": {
+                                    "site_logo_image": ""
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "facebook": null,
+                                    "rss": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": null
+                                },
+                                "_admin": {
+                                    "alias_ids": ["/politique/elections", "200002"]
+                                },
+                                "_website": "liberation",
+                                "name": "Elections",
+                                "order": {
+                                    "default": 2001,
+                                    "burgermenu": 2001,
+                                    "headernav": 2001,
+                                    "amp-menu": 2001,
+                                    "footer": 3001,
+                                    "footer2": 2002
+                                },
+                                "parent": {
+                                    "default": "/politique",
+                                    "burgermenu": "/politique",
+                                    "footer": "/politique",
+                                    "headernav": "/politique",
+                                    "amp-menu": "/politique",
+                                    "footer2": "/idees-et-debats"
+                                },
+                                "ancestors": {
+                                    "default": ["/politique"],
+                                    "burgermenu": ["/", "/politique"],
+                                    "footer": ["/", "/rubriques", "/politique"],
+                                    "headernav": ["/politique"],
+                                    "amp-menu": ["/", "/politique"],
+                                    "footer2": ["/idees-et-debats"]
+                                },
+                                "inactive": false,
+                                "node_type": "section"
+                            }
+                        },
+                        "_website_section_id": "liberation./politique/elections"
+                    },
+                    "website_url": "/politique/elections/ministere-secret-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-reindustrialisent-la-france-20211108_ARO3P7R6GVH2LLMLFIJF3I4IF4/"
+                }
+            },
+            "publish_date": "2021-12-06T14:02:18.594Z",
+            "canonical_url": "/politique/elections/ministere-secret-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-reindustrialisent-la-france-20211108_ARO3P7R6GVH2LLMLFIJF3I4IF4/",
+            "website": "liberation",
+            "website_url": "/politique/elections/ministere-secret-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-reindustrialisent-la-france-20211108_ARO3P7R6GVH2LLMLFIJF3I4IF4/"
+        },
+        {
+            "_id": "3PRPXVOEG5ATXIXMI3DPQVKCXY",
+            "type": "story",
+            "content_elements": [{
+                "_id": "OB32PCWIF5AJ5KX2NQYZBSTDAU",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636982077281,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<i>«Le Ministère Secret a décidé de rendre publics tous ses dossiers sensibles en vue des élections. Les Français sont assez mûrs pour savoir. Non, en vrai ils sont complètement cons mais il faut bien qu’on fasse quelque chose.»</i> (Joann Sfar)"
+            }, {
+                "_id": "GH5F7SM5LRHQVLJ3R7NSE6P3J4",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636995319588,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<b>L’épisode précédent : </b><a href=\"https://www.liberation.fr/politique/elections/ministere-secret-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-reindustrialisent-la-france-20211108_ARO3P7R6GVH2LLMLFIJF3I4IF4/\" target=\"_blank\"><b>Hollande, Sarkozy et Sapin réindustrialisent la France</b></a>"
+            }, {
+                "_id": "GH5F7SM5LRHQVLJ3R7NSE6P3J4",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636995319588,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<br/>"
+            }, {
+                "_id": "SNQWE2QGVZHWFAML2VOLYDFZI4",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/-yuoWOGBdrAdOQ4sLv1cnXm4uaE=/arc-photo-liberation/eu-central-1-prod/public/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "LMS2022-LIBE-010c.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                    "owner": "l.provost@liberation.fr",
+                    "proxyUrl": "/resizer/-yuoWOGBdrAdOQ4sLv1cnXm4uaE=/arc-photo-liberation/eu-central-1-prod/public/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/-yuoWOGBdrAdOQ4sLv1cnXm4uaE=/arc-photo-liberation/eu-central-1-prod/public/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/ElBp8u_cZrqHGkQTaUsSV-88kII=/300x0/arc-photo-liberation/eu-central-1-prod/public/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                    "version": 3,
+                    "template_id": 183,
+                    "_id": "5XCWHKG76JBETAWPHTYDSAAUIU",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-15T16:38:38Z",
+                "credits": {
+                    "by": []
+                },
+                "geo": {},
+                "height": 3971,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-15T16:58:04Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/SNQWE2QGVZHWFAML2VOLYDFZI4.jpg",
+                "version": "0.10.3",
+                "width": 981,
+                "syndication": {},
+                "caption": "",
+                "subtitle": "",
+                "vanity_credits": {
+                    "affiliation": [],
+                    "by": []
+                },
+                "resized_params": {
+                    "84x56": "6eS_1FTjmpEyC2oYInIFhwAqFUM=filters:format(jpg):quality(70)/",
+                    "105x70": "kiQpWmKlWWkmseP5-YUcGOMI9Y4=filters:format(jpg):quality(70)/",
+                    "158x105": "GE7DzbAMpUFSJyu7ybGn4UJSIGQ=filters:format(jpg):quality(70)/",
+                    "274x183": "0NAkxNEyxg0w3RiMkhqphiXDSog=filters:format(jpg):quality(70)/",
+                    "377x251": "cqJXhju41S6J13efBC8kCyMs9X0=filters:format(jpg):quality(70)/",
+                    "400x267": "0Y7q7uWjMBKoX0CaXIVLFTv7hVY=filters:format(jpg):quality(70)/",
+                    "600x400": "LElBj-tyYXCBDcmt_Rh_cgVa7gk=filters:format(jpg):quality(70)/",
+                    "768x512": "m9ftXDof7uihceoxL5ByvPwP06k=filters:format(jpg):quality(70)/",
+                    "800x533": "hG20MnCudMHxvUrYgSf9AK5nwuQ=filters:format(jpg):quality(70)/",
+                    "1024x683": "dH-saQSmFNCktCHPyFFTBKX38XM=filters:format(jpg):quality(70)/",
+                    "1440x960": "rMmsq0T-UdOpMcAZR8RPa6SzKFQ=filters:format(jpg):quality(70)/",
+                    "1600x1067": "4dDjXFowVw8N4MObdruMtWTGeuQ=filters:format(jpg):quality(70)/",
+                    "84x63": "uHyIrzWBwhhtefsLWq14iM6pVeM=filters:format(jpg):quality(70)/",
+                    "105x79": "FTxzd4kQP6iBUP3X2Hs0-_WGMpU=filters:format(jpg):quality(70)/",
+                    "158x119": "ueVNe3BsZwhyVSH9kMoqeHS-8UE=filters:format(jpg):quality(70)/",
+                    "274x206": "HHHnuXU-R_ozVATmJAVXw6i-ibQ=filters:format(jpg):quality(70)/",
+                    "377x283": "NWWYcTWvTaTacbKSwXOtaIhwMT4=filters:format(jpg):quality(70)/",
+                    "400x300": "KDylwoxDBCwYnteDGBY82Bei2ho=filters:format(jpg):quality(70)/",
+                    "600x450": "lNDL2bp2vCzmNJOhnyE8JZ8imj8=filters:format(jpg):quality(70)/",
+                    "768x576": "bTePQn47H85zPuexjDI_oA7xeVw=filters:format(jpg):quality(70)/",
+                    "800x600": "mQH1PI3_HykpT3IIbq2M3yUXIS8=filters:format(jpg):quality(70)/",
+                    "1024x768": "9cCuXGTrZPAsLOazrdSHvDgN6HY=filters:format(jpg):quality(70)/",
+                    "1440x1080": "pUgwtmM0vKkU32iXAbIR2FY10sM=filters:format(jpg):quality(70)/",
+                    "1600x1200": "F_mZZsLAuSvP2oyCP8iJrfTvxoc=filters:format(jpg):quality(70)/",
+                    "84x0": "GR9BTcJ9y3Hvt-94Qy1f9-RztXo=filters:format(jpg):quality(70)/",
+                    "105x0": "CudGSPwniNg72N83eWntSV9ZDRM=filters:format(jpg):quality(70)/",
+                    "158x0": "RgEOn1Law0827biVAHUDU6EW1HA=filters:format(jpg):quality(70)/",
+                    "274x0": "HVVLav1J5dra6eyHIaMvhh29JZU=filters:format(jpg):quality(70)/",
+                    "377x0": "4f5l1dhHB8G6bVfUOnwD1X58u90=filters:format(jpg):quality(70)/",
+                    "400x0": "ddimveBcMZqVFUrzW0GcwCg1R70=filters:format(jpg):quality(70)/",
+                    "600x0": "5w5JiWk45enz280Xo-ouDcN4TGU=filters:format(jpg):quality(70)/",
+                    "768x0": "IiNYna4eHT-IUBf1655oBj5M3CA=filters:format(jpg):quality(70)/",
+                    "800x0": "_sxyyCFhf6imbOzzPa5nLiNgBJk=filters:format(jpg):quality(70)/",
+                    "1024x0": "7tyupqiz0wlXTPB2ynQXxLf5sCA=filters:format(jpg):quality(70)/",
+                    "1440x0": "H8PugZcdDBnLGY_3z-y9_IJOTcY=filters:format(jpg):quality(70)/",
+                    "1600x0": "Ys3O-sTB-VYP1moGc1GdojVSPGU=filters:format(jpg):quality(70)/",
+                    "84x47": "gD_ED1r_y6P5T6PWlNuuSQtyv1Q=filters:format(jpg):quality(70)/",
+                    "105x59": "YBA6JJbhAlxgke0BfbKEF5-frH8=filters:format(jpg):quality(70)/",
+                    "158x89": "pU1qQA2lnVBAqkHqV5YQvjlx3TI=filters:format(jpg):quality(70)/",
+                    "274x154": "2iZuGcRWv9trGTqSYB7MAnrW5fs=filters:format(jpg):quality(70)/",
+                    "377x212": "7uUZnBFcdR4y0nkDxrXORC7xs8E=filters:format(jpg):quality(70)/",
+                    "400x225": "W7x7c9SK4oEfxnoXyxmQ5nC-4Yg=filters:format(jpg):quality(70)/",
+                    "600x338": "Tqil5zkEtznzz-QFj4xYwETxEFQ=filters:format(jpg):quality(70)/",
+                    "768x432": "Uude6mjXxyago1dPnSgHpMHGq60=filters:format(jpg):quality(70)/",
+                    "800x450": "61U9L1obtKr25H8DI7USCGnW8NA=filters:format(jpg):quality(70)/",
+                    "1024x576": "uMfO0kKKLIzRWoHFbYoSImnMhK4=filters:format(jpg):quality(70)/",
+                    "1440x810": "MwIXknr2J7pISJNB3NHndCRzBAw=filters:format(jpg):quality(70)/",
+                    "1600x900": "6Ueai_vZi3ETwmBpVpi0DZiEiHc=filters:format(jpg):quality(70)/",
+                    "84x84": "f06TrJeq8QafRwee8Im9gOz1hAQ=filters:format(jpg):quality(70)/",
+                    "105x105": "PbvMbaeIfQpy0Lisp94as3R26Pg=filters:format(jpg):quality(70)/",
+                    "158x158": "zllnkJz7NeuE1SoRkxhPjTMv67A=filters:format(jpg):quality(70)/",
+                    "274x274": "y7XG0qsppJP1PL1OLBSSlnCgRPA=filters:format(jpg):quality(70)/",
+                    "377x377": "dCJNtP63vQocECZrNB26g3b3ENk=filters:format(jpg):quality(70)/",
+                    "400x400": "sDdguvdmbn8H3e_s0C77lasD8_s=filters:format(jpg):quality(70)/",
+                    "600x600": "KzdiQtstrEiHv68loGBEej6mndI=filters:format(jpg):quality(70)/",
+                    "768x768": "Nqjk8H2Bys-JuHFqwurHyP8YX5c=filters:format(jpg):quality(70)/",
+                    "800x800": "TMbvWAYvi8lI_R56YkgVTBOWgms=filters:format(jpg):quality(70)/",
+                    "1024x1024": "scN7DT3D-_DGw0L16RIBfeae8_k=filters:format(jpg):quality(70)/",
+                    "1440x1440": "yl5Z-ZV659uEpD9af4SvJ_Mwc40=filters:format(jpg):quality(70)/",
+                    "1600x1600": "xLV21BKLTM1-yLMBoY17Lk1pc5M=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "BUELCLNLBFHNVFKQVC72SXJYRI",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/Pi4ujJCGXcvPD5z9ZhCKuyjwldw=/arc-photo-liberation/eu-central-1-prod/public/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "LMS2022-LIBE-010d.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                    "owner": "l.provost@liberation.fr",
+                    "proxyUrl": "/resizer/Pi4ujJCGXcvPD5z9ZhCKuyjwldw=/arc-photo-liberation/eu-central-1-prod/public/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/Pi4ujJCGXcvPD5z9ZhCKuyjwldw=/arc-photo-liberation/eu-central-1-prod/public/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/xwrN6YxvO76Zfls8fkS3nS-_3AA=/300x0/arc-photo-liberation/eu-central-1-prod/public/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                    "version": 3,
+                    "template_id": 183,
+                    "_id": "RFEILRMNGVEGND52LZVIHOZYTA",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-15T16:40:48Z",
+                "credits": {
+                    "by": []
+                },
+                "geo": {},
+                "height": 4104,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-15T16:57:44Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/BUELCLNLBFHNVFKQVC72SXJYRI.jpg",
+                "version": "0.10.3",
+                "width": 981,
+                "syndication": {},
+                "resized_params": {
+                    "84x56": "bZ8tFc3uMbSSt-A7vyxrhVkNN2c=filters:format(jpg):quality(70)/",
+                    "105x70": "Rqse54CeFpGGdpkv4RVGRz6-Yn0=filters:format(jpg):quality(70)/",
+                    "158x105": "Loypxz2TjR5MWDf2kDkRGTozEBY=filters:format(jpg):quality(70)/",
+                    "274x183": "ZJ51_IEFq6lfdR66cOh6mLxiRfA=filters:format(jpg):quality(70)/",
+                    "377x251": "cgtkT6fdOXzMSc08HD0ken6lNXY=filters:format(jpg):quality(70)/",
+                    "400x267": "gQd-W5YuqFbwR4dm_JsR8uS6Zsk=filters:format(jpg):quality(70)/",
+                    "600x400": "kuGg0v6oz_HfzFyni-1ZAsMQzYw=filters:format(jpg):quality(70)/",
+                    "768x512": "12wep4Sg1KpWRHX5kmafWZEtQe4=filters:format(jpg):quality(70)/",
+                    "800x533": "qThKn0R2lKKsb0Q2hCz99ybMYTA=filters:format(jpg):quality(70)/",
+                    "1024x683": "ia2M8pzxMQ1JdU27dU_HZAM0lQc=filters:format(jpg):quality(70)/",
+                    "1440x960": "W2SIevZOSVldgb_Qd6IoJjgMNqU=filters:format(jpg):quality(70)/",
+                    "1600x1067": "pIGOqqeauQt5VWwRK33dd0U6lvw=filters:format(jpg):quality(70)/",
+                    "84x63": "7WiqE_GZjTO0F6GilV96jDvOaqc=filters:format(jpg):quality(70)/",
+                    "105x79": "o6JvWvi55p4fNvRJjR-CRw681CY=filters:format(jpg):quality(70)/",
+                    "158x119": "xEEN-UhxESU3H0pN_lEufZkqMH8=filters:format(jpg):quality(70)/",
+                    "274x206": "tarCNnqURNApUF3i5n3eZqyqTlI=filters:format(jpg):quality(70)/",
+                    "377x283": "7eIZS9eeVflL8QvLr7meWyhMJyU=filters:format(jpg):quality(70)/",
+                    "400x300": "s2fbuBGlZG56SJdlRIEi0Z5OQ7Q=filters:format(jpg):quality(70)/",
+                    "600x450": "FF_xGQlS7kNKlOB4ran_ufLXe9c=filters:format(jpg):quality(70)/",
+                    "768x576": "KLc227dlzqoaoyPiBHsVeE4ZAj0=filters:format(jpg):quality(70)/",
+                    "800x600": "pEIslHK_5qRusXn9GDoUO046P9c=filters:format(jpg):quality(70)/",
+                    "1024x768": "RzaHmSZmXPWcXsxgUkWl7zgbZfk=filters:format(jpg):quality(70)/",
+                    "1440x1080": "e76MNUx8FXRDeytXdemzNOvoL0o=filters:format(jpg):quality(70)/",
+                    "1600x1200": "EuYKm-JzjMU4T_Iv2JDphC8MOM8=filters:format(jpg):quality(70)/",
+                    "84x0": "xlyasF_hP6s99ArB93EHi2k865o=filters:format(jpg):quality(70)/",
+                    "105x0": "BEV_TfqZAQBohRrz608omlRWDMQ=filters:format(jpg):quality(70)/",
+                    "158x0": "AuhmTDaoMHNYIAQGiOu5ZzL9flU=filters:format(jpg):quality(70)/",
+                    "274x0": "Bpe2LMcrviTqNCPpEw_UWOJQDNs=filters:format(jpg):quality(70)/",
+                    "377x0": "dIWJj-s5cEU9dhShvsEsMoOZsJ8=filters:format(jpg):quality(70)/",
+                    "400x0": "1x2Lh9p3jO7KbFTFIov4CRvdsLg=filters:format(jpg):quality(70)/",
+                    "600x0": "3t3lApoMI8nrR8cU63J-q7NfghY=filters:format(jpg):quality(70)/",
+                    "768x0": "nkrAmm5kGf5o9yKHaf2Mg72SsTI=filters:format(jpg):quality(70)/",
+                    "800x0": "gaefbk_p1uHZA4QvUsLLTOkYfrM=filters:format(jpg):quality(70)/",
+                    "1024x0": "vVhXwiWRtKEuCHGaTCK8UPKhVrA=filters:format(jpg):quality(70)/",
+                    "1440x0": "2ZmqEDMiyRTGclU4GmRzypXwjng=filters:format(jpg):quality(70)/",
+                    "1600x0": "7Dwj01dyNeyXowXIM0BsPxny0pY=filters:format(jpg):quality(70)/",
+                    "84x47": "4jtTvaoNQSonjY2OY8meJGVKPCY=filters:format(jpg):quality(70)/",
+                    "105x59": "t6xzZzmjLhcICkGrkaP-BIpaXjM=filters:format(jpg):quality(70)/",
+                    "158x89": "I3O1ZIQcUghRo4U7lnqv8EKHsAw=filters:format(jpg):quality(70)/",
+                    "274x154": "LuwqUndqS3laQ5bxDZKd5L6JQSw=filters:format(jpg):quality(70)/",
+                    "377x212": "MsxR09q2PZOukcC3g-oqLFXvm2c=filters:format(jpg):quality(70)/",
+                    "400x225": "XPoOzgQR0zznA5pNqKNr5cEG7UI=filters:format(jpg):quality(70)/",
+                    "600x338": "otSH4I1ZBA0qBpJBk_0vmUCfCYw=filters:format(jpg):quality(70)/",
+                    "768x432": "6mKiMKW6NF9wLu16_bzTE6jhBYw=filters:format(jpg):quality(70)/",
+                    "800x450": "pmGaevMbZqj5uVbzL5yaMel6shs=filters:format(jpg):quality(70)/",
+                    "1024x576": "HDl0H8A9iWp3kHxeRirm7JWK9r8=filters:format(jpg):quality(70)/",
+                    "1440x810": "C7NGrPrUuBXbEVz9E7kAl2hmhzM=filters:format(jpg):quality(70)/",
+                    "1600x900": "G8rTCv7CKgiINkmYAD8GRnXZUQY=filters:format(jpg):quality(70)/",
+                    "84x84": "_3qE6K6jJqj3LDJHG7SE5uF4Rsk=filters:format(jpg):quality(70)/",
+                    "105x105": "sBNRhUQ_tmHv6gYhn9F_q4H68Iw=filters:format(jpg):quality(70)/",
+                    "158x158": "nZad236C88h4QAVg7CTO6F5m7SM=filters:format(jpg):quality(70)/",
+                    "274x274": "HRW6q5uYVYXsqL_WADRCH49fOAg=filters:format(jpg):quality(70)/",
+                    "377x377": "v4ywpZ1PcUhBD4bQrhule2mBWO4=filters:format(jpg):quality(70)/",
+                    "400x400": "OyYIeePYPDl1vSZXEhcPJdqNz4w=filters:format(jpg):quality(70)/",
+                    "600x600": "zyB1drJ0AY9Os7_8QO8mtZ4Z_DQ=filters:format(jpg):quality(70)/",
+                    "768x768": "3aP1DnEOlW8fWjZD4Bcyzzn-saw=filters:format(jpg):quality(70)/",
+                    "800x800": "kYjckmG7-hZBzrpnZSj4VN-UAf8=filters:format(jpg):quality(70)/",
+                    "1024x1024": "_epBRxl76l7iwj_ElmzNUl_Bmow=filters:format(jpg):quality(70)/",
+                    "1440x1440": "2mPiaiyMx8-EfcuRDumSlucaxvM=filters:format(jpg):quality(70)/",
+                    "1600x1600": "Y6P_URoL7QaHwS4D4XN175Yq6jU=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "GH5F7SM5LRHQVLJ3R7NSE6P3J4",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1636995319588,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<b>L’épisode suivant : </b><a href=\"https://www.liberation.fr/politique/elections/de-gaulle-engueule-sapin-20211116_XRN6QRC3YVCS7A53KDTFF5XFR4/\" target=\"_blank\">De Gaulle engueule Sapin</a>"
+            }, {
+                "_id": "EQ7CTXJYSJGTJD5UYX3XAMXAUA",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1638797563911,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<a href=\"https://www.liberation.fr/politique/elections/comment-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-se-sont-retrouves-a-enqueter-sur-la-presidentielle-avec-libe-20211105_72MZPQ2Q7JB2ZINOCIALUWC55U/\" target=\"_blank\">Comment François Hollande, Nicolas Sarkozy et Matthieu Sapin se sont retrouvés à enquêter pour <i>Libé</i></a>"
+            }],
+            "created_date": "2021-11-15T13:13:24.993Z",
+            "last_updated_date": "2021-12-06T13:32:55.026Z",
+            "headlines": {
+                "basic": "«Ministère secret»: François Hollande et Nicolas Sarkozy plantent Mathieu Sapin",
+                "meta_title": "",
+                "mobile": "",
+                "native": "",
+                "print": "",
+                "tablet": "",
+                "web": ""
+            },
+            "owner": {
+                "sponsored": false,
+                "id": "liberation"
+            },
+            "content_restrictions": {
+                "content_code": "ouvert"
+            },
+            "subheadlines": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec des strips inédits en réaction à l’actualité de la campagne présidentielle. Ces «enquêtes présidentielles» mettent en scène Mathieu Sapin, François Hollande et Nicolas Sarkozy, tous trois héros de la série «Le Ministère secret» aux éditions Dupuis. Vous les retrouverez toutes les semaines, puis quotidiennement à partir de janvier."
+            },
+            "description": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de « Libération » avec des strips inédits en réaction à l’actualité de la présidentielle."
+            },
+            "language": "",
+            "label": {
+                "basic": {
+                    "display": true,
+                    "text": "BD, épisode 2"
+                }
+            },
+            "source": {
+                "name": "liberation",
+                "source_type": "staff",
+                "system": "composer"
+            },
+            "taxonomy": {
+                "sections": [{
+                    "_id": "/politique/elections",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Elections",
+                    "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                    "path": "/politique/elections",
+                    "parent_id": "/politique",
+                    "parent": {
+                        "default": "/politique"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique/elections",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Elections : sondages, dates et résultats - Libération",
+                                "site_about": "",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": ""
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": null
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique/elections", "200002"]
+                            },
+                            "_website": "liberation",
+                            "name": "Elections",
+                            "order": {
+                                "default": 2001,
+                                "burgermenu": 2001,
+                                "headernav": 2001,
+                                "amp-menu": 2001,
+                                "footer": 3001,
+                                "footer2": 2002
+                            },
+                            "parent": {
+                                "default": "/politique",
+                                "burgermenu": "/politique",
+                                "footer": "/politique",
+                                "headernav": "/politique",
+                                "amp-menu": "/politique",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": ["/politique"],
+                                "burgermenu": ["/", "/politique"],
+                                "footer": ["/", "/rubriques", "/politique"],
+                                "headernav": ["/politique"],
+                                "amp-menu": ["/", "/politique"],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique/elections"
+                }, {
+                    "_id": "/politique",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Politique",
+                    "description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                    "path": "/politique",
+                    "parent_id": "/",
+                    "parent": {
+                        "default": "/"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Toute l'actualité Politique en continu avec Libération",
+                                "site_about": null,
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "Politique"
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique", "100666"]
+                            },
+                            "_website": "liberation",
+                            "name": "Politique",
+                            "order": {
+                                "default": 1002,
+                                "amp-menu": 1002,
+                                "burgermenu": 1003,
+                                "accueil-tag-block": 1001,
+                                "headernav": 1002,
+                                "footer": 2001,
+                                "footer2": 2001
+                            },
+                            "parent": {
+                                "default": "/",
+                                "amp-menu": "/",
+                                "footer-nav-bar": null,
+                                "burgermenu": "/",
+                                "footer": "/rubriques",
+                                "accueil-tag-block": "/",
+                                "Test": null,
+                                "headernav": "/",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": [],
+                                "amp-menu": ["/"],
+                                "footer-nav-bar": [],
+                                "burgermenu": ["/"],
+                                "footer": ["/", "/rubriques"],
+                                "accueil-tag-block": ["/"],
+                                "Test": [],
+                                "headernav": [],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique"
+                }, {
+                    "_id": "/culture/bd",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "BD",
+                    "description": "Les dernières nouveautés en bandes dessinées et les sorties BD de la semaine sont à retrouver dans Libération.",
+                    "path": "/culture/bd",
+                    "parent_id": "/culture",
+                    "parent": {
+                        "default": "/culture"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/culture/bd",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Bande dessinée : l’actu BD et les nouveautés Libération",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_about": null,
+                                "site_description": "Les dernières nouveautés en bandes dessinées et les sorties BD de la semaine sont à retrouver dans Libération.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "BD"
+                            },
+                            "_admin": {
+                                "alias_ids": ["/culture/bd", "200048"]
+                            },
+                            "_website": "liberation",
+                            "name": "BD",
+                            "order": {
+                                "burgermenu": 2007,
+                                "amp-menu": 2007,
+                                "footer": 2001
+                            },
+                            "parent": {
+                                "default": "/culture",
+                                "burgermenu": "/culture",
+                                "amp-menu": "/culture",
+                                "footer": "/culture",
+                                "footer2": "/culture"
+                            },
+                            "ancestors": {
+                                "default": ["/culture"],
+                                "burgermenu": ["/", "/culture"],
+                                "amp-menu": ["/", "/culture"],
+                                "footer": ["/", "/rubriques", "/culture"],
+                                "footer2": ["/culture"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./culture/bd"
+                }, {
+                    "_id": "/culture",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Culture",
+                    "description": "Retrouvez toute l'actualité culturelle avec Libération : cinéma, musique, livres, photographie, scènes et arts, les infos sur les séries ou encore sur les jeux vidéos.",
+                    "path": "/culture",
+                    "parent_id": "/",
+                    "parent": {
+                        "default": "/"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/culture",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Culture, livres, tendances, mode, cinéma, musique... - Libération",
+                                "site_about": null,
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "Retrouvez toute l'actualité culturelle avec Libération : cinéma, musique, livres, photographie, scènes et arts, les infos sur les séries ou encore sur les jeux vidéos.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": null
+                            },
+                            "_admin": {
+                                "alias_ids": ["/culture", "54"]
+                            },
+                            "_website": "liberation",
+                            "name": "Culture",
+                            "order": {
+                                "burgermenu": 1006,
+                                "default": 1006,
+                                "headernav": 1005,
+                                "amp-menu": 1009,
+                                "footer": 2004,
+                                "footer2": 1005
+                            },
+                            "parent": {
+                                "default": "/",
+                                "burgermenu": "/",
+                                "footer": "/rubriques",
+                                "headernav": "/",
+                                "amp-menu": "/",
+                                "footer2": "/"
+                            },
+                            "ancestors": {
+                                "default": ["/"],
+                                "burgermenu": ["/"],
+                                "footer": ["/", "/rubriques"],
+                                "headernav": ["/"],
+                                "amp-menu": ["/"],
+                                "footer2": ["/"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./culture"
+                }],
+                "tags": [{
+                    "description": "La prochaine élection présidentielle aura lieu les 10 et 24 avril 2022. En attendant qu'Emmanuel Macron confirme sa volonté de rempiler, plusieurs candidats sont déjà en campagne : Marine Le Pen, Jean-Luc Mélenchon, Fabien Roussel, Anne Hidalgo, Arnaud Montebourg, Yannick Jadot, Philippe Poutou, Nathalie Arthaud... La droite doit encore désigner le sien en décembre : Xavier Bertrand et Valérie Pécresse se battent pour l'investiture. Pas encore candidat mais faisant tout comme, Eric Zemmour veut bousculer à l'extrême droite.",
+                    "slug": "election-presidentielle-2022",
+                    "text": "Election Présidentielle 2022"
+                }, {
+                    "description": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec la publication de strips inédits en résonnance avec l’actualité de la campagne pour l’élection présidentielle.",
+                    "slug": "ministere-secret-les-enquetes-presidentielles-de-mathieu-sapin-et-joann-sfar",
+                    "text": "Ministère secret : les «Enquêtes présidentielles» de Mathieu Sapin et Joann Sfar"
+                }]
+            },
+            "promo_items": {
+                "basic": {
+                    "_id": "RHPQYA5ZRFHFRJMSPJ6QFBXZSQ",
+                    "additional_properties": {
+                        "fullSizeResizeUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "galleries": [],
+                        "ingestionMethod": "manual",
+                        "keywords": [""],
+                        "mime_type": "image/jpeg",
+                        "originalName": "Visuel appel MINISTERE SECRET.jpg",
+                        "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "owner": "g.dhers@liberation.fr",
+                        "proxyUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "published": true,
+                        "resizeUrl": "/resizer/fDNmfTtFuAwfeWT0Y3xuLlFKCCE=/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "restricted": false,
+                        "thumbnailResizeUrl": "/resizer/jL8mheAOymJkhccwHnx-MpRVD7o=/300x0/arc-photo-liberation/eu-central-1-prod/public/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                        "version": 2,
+                        "template_id": 183
+                    },
+                    "address": {},
+                    "created_date": "2021-11-04T17:05:56Z",
+                    "credits": {
+                        "by": []
+                    },
+                    "geo": {},
+                    "height": 1031,
+                    "image_type": "photograph",
+                    "last_updated_date": "2021-11-15T13:24:52Z",
+                    "licensable": false,
+                    "owner": {
+                        "id": "liberation",
+                        "sponsored": false
+                    },
+                    "source": {
+                        "additional_properties": {
+                            "editor": "photo center"
+                        },
+                        "edit_url": "",
+                        "system": "photo center"
+                    },
+                    "taxonomy": {
+                        "associated_tasks": []
+                    },
+                    "resized_params": {
+                        "84x56": "vm1xoyo-pv4-Q2Bv44S6i_XWOt8=filters:format(jpg):quality(70)/",
+                        "105x70": "BcBt98gB_IO6qyyh8pZg3RhUA0M=filters:format(jpg):quality(70)/",
+                        "158x105": "f0AO3WO0z8GkWrpD4nSgNIqjcxY=filters:format(jpg):quality(70)/",
+                        "274x183": "yXIXp8ZAlmjxzYRy4WbkGxKkq-o=filters:format(jpg):quality(70)/",
+                        "377x251": "i-3YQLLF54cwgMAPL47j7JEf3AE=filters:format(jpg):quality(70)/",
+                        "400x267": "bWm1b9lGxCpvfT9cB86ZSLK3akE=filters:format(jpg):quality(70)/",
+                        "600x400": "LTOJYML0vd5r0gkGiczThJTMhcA=filters:format(jpg):quality(70)/",
+                        "768x512": "nNRmGeAQw4JdlhpkSJ_dzdcHFek=filters:format(jpg):quality(70)/",
+                        "800x533": "2ECC4gpywro87eGUp1ps3L5iirU=filters:format(jpg):quality(70)/",
+                        "1024x683": "m-7YUkjVD57zyszzbRnZHiIfOxI=filters:format(jpg):quality(70)/",
+                        "1440x960": "YMrB_01-wKluQ8NfLU0_8Tzta9o=filters:format(jpg):quality(70)/",
+                        "1600x1067": "z3JFVedtRmdirdO8PQdjJn9MVJI=filters:format(jpg):quality(70)/",
+                        "84x63": "2Ncs1wMW314eA9siKfHKquPNQto=filters:format(jpg):quality(70)/",
+                        "105x79": "H1JISmsMnIwmgL23wd0kgFROuIs=filters:format(jpg):quality(70)/",
+                        "158x119": "mnZ3rhuEzTi_Rl0XmzT_y0xPyKM=filters:format(jpg):quality(70)/",
+                        "274x206": "IOLkqSRHcZJJnQRbktHxyTmOTMg=filters:format(jpg):quality(70)/",
+                        "377x283": "C574LBDm94dZxI390PDgEptZNmU=filters:format(jpg):quality(70)/",
+                        "400x300": "-2KyWkSXSnOqvkL7YYOd6iPfC6Y=filters:format(jpg):quality(70)/",
+                        "600x450": "kS9P6iJS0sn-qCq-hDCaQE_bMuQ=filters:format(jpg):quality(70)/",
+                        "768x576": "zJyoZ5q3b-dLWkq39FzKsVDryBU=filters:format(jpg):quality(70)/",
+                        "800x600": "BueBQXbdzvdm9fipRCf929hi3po=filters:format(jpg):quality(70)/",
+                        "1024x768": "RXDMEVdUALe55C4AfyVuyi9A0CI=filters:format(jpg):quality(70)/",
+                        "1440x1080": "MyGw8kNlNFK2WzQNKLWHRBRiTVs=filters:format(jpg):quality(70)/",
+                        "1600x1200": "I1ArF53g8p-BHnYGBq2NDt30mbM=filters:format(jpg):quality(70)/",
+                        "84x0": "fqWR7Va7C6zdKuU8FXIPe5UHKyI=filters:format(jpg):quality(70)/",
+                        "105x0": "_vHdeeU8H5VW6bncAGQ_Aeexx6I=filters:format(jpg):quality(70)/",
+                        "158x0": "QTzW1-XvzbMXcFew7bQX3_Afcpw=filters:format(jpg):quality(70)/",
+                        "274x0": "xUKCPlAE47D_V5_Doxp_e4vOH00=filters:format(jpg):quality(70)/",
+                        "377x0": "-WmHZq8WmBtNoDBELIJ4x-6dQl0=filters:format(jpg):quality(70)/",
+                        "400x0": "OoUQ4Zq200z86qDKp6AUxDXHXM0=filters:format(jpg):quality(70)/",
+                        "600x0": "_5YWk4X8igSNyTtFCV4IcbXXafM=filters:format(jpg):quality(70)/",
+                        "768x0": "XGDuzNclLupMRPYMlDozRgyd_HI=filters:format(jpg):quality(70)/",
+                        "800x0": "TcMuxJggBb0UPyn0F10I7YAbLDU=filters:format(jpg):quality(70)/",
+                        "1024x0": "52GbHv_xwTGl5Wa5su5WCt_4JaY=filters:format(jpg):quality(70)/",
+                        "1440x0": "tmafq_YKK_NNhHWlRIiYLcFclvg=filters:format(jpg):quality(70)/",
+                        "1600x0": "TzwmZ52Ed62GxyToa0eqCKJe8LM=filters:format(jpg):quality(70)/",
+                        "84x47": "gZ1YjbsF30QziBv7KsoydSO02HI=filters:format(jpg):quality(70)/",
+                        "105x59": "p5qOBJkMYpaSu1RgcwFUTELPYME=filters:format(jpg):quality(70)/",
+                        "158x89": "YNJIIhS2nwsFcr7Ry6Qg13uEAmw=filters:format(jpg):quality(70)/",
+                        "274x154": "SwgqRNeBMZX8a-OC0THGT9WmzoM=filters:format(jpg):quality(70)/",
+                        "377x212": "nsBRnniFrfRI9we-q2dbG8WLLUQ=filters:format(jpg):quality(70)/",
+                        "400x225": "wLaO5BTpHWvrOWedP6t4wLF5mcA=filters:format(jpg):quality(70)/",
+                        "600x338": "OkPyZ9RM740i7zpChtaTfPc5NpM=filters:format(jpg):quality(70)/",
+                        "768x432": "WKNmY-X3P1q4_Yj6y9xt-NSNAL4=filters:format(jpg):quality(70)/",
+                        "800x450": "7X-ncMZ_G690sl5FMwubwkOVZ60=filters:format(jpg):quality(70)/",
+                        "1024x576": "NP9CcQo4CeCroqdRxsbIlGVNVaM=filters:format(jpg):quality(70)/",
+                        "1440x810": "01f61NgjTxmj0wQ4cbCuqFcJEI4=filters:format(jpg):quality(70)/",
+                        "1600x900": "gQJ_74Y6P7RPR7XyKKgLF4WhNmw=filters:format(jpg):quality(70)/",
+                        "84x84": "TiLb__P7Th7hObpPc5zd-35_1k0=filters:format(jpg):quality(70)/",
+                        "105x105": "wnNGBpxCNeREZDxAI5QGZM4bRsM=filters:format(jpg):quality(70)/",
+                        "158x158": "NwfnpaRIlLPl4Hpx9ak5gveKE7w=filters:format(jpg):quality(70)/",
+                        "274x274": "JyN1d6sAe25RsE3uYlChTNv6seQ=filters:format(jpg):quality(70)/",
+                        "377x377": "qibfnjoa-ZjfE3stJ86WstDSYtA=filters:format(jpg):quality(70)/",
+                        "400x400": "dDRKHA-CNkUvNfDD-uwL51UEqDw=filters:format(jpg):quality(70)/",
+                        "600x600": "8b_1pBQhoEn29TksctxxLPBDFYg=filters:format(jpg):quality(70)/",
+                        "768x768": "nfZo-6paDsxozg-Ykc2r-ZYlK2Q=filters:format(jpg):quality(70)/",
+                        "800x800": "fS-No5ljbkt4Rci4nE1Zm5qqkdk=filters:format(jpg):quality(70)/",
+                        "1024x1024": "dhzfYF7SCXRrOptbEsCWIftltrw=filters:format(jpg):quality(70)/",
+                        "1440x1440": "3sM5C5v8vEYaFcJdwDQ_m_amsNU=filters:format(jpg):quality(70)/",
+                        "1600x1600": "POMKoDR2aN7w2vt3_BI68XIpQvU=filters:format(jpg):quality(70)/"
+                    },
+                    "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/RHPQYA5ZRFHFRJMSPJ6QFBXZSQ.jpg",
+                    "type": "image",
+                    "version": "0.10.3",
+                    "width": 1629,
+                    "syndication": {},
+                    "caption": ""
+                }
+            },
+            "related_content": {
+                "basic": [],
+                "redirect": []
+            },
+            "distributor": {
+                "category": "staff",
+                "name": "liberation",
+                "subcategory": ""
+            },
+            "canonical_website": "liberation",
+            "geo": {},
+            "planning": {
+                "internal_note": "",
+                "scheduling": {
+                    "planned_publish_date": "2021-11-15T14:10:00.000Z"
+                },
+                "story_length": {
+                    "character_count_actual": 457,
+                    "character_encoding": "UTF-16",
+                    "inch_count_actual": 1,
+                    "line_count_actual": 5,
+                    "word_count_actual": 72
+                }
+            },
+            "display_date": "2021-11-15T13:24:03.766Z",
+            "credits": {
+                "by": [{
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Joan Sfar",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }, {
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Mathieu Sapin",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }]
+            },
+            "subtype": "default",
+            "first_publish_date": "2021-11-15T13:24:03.766Z",
+            "websites": {
+                "liberation": {
+                    "website_section": {
+                        "_id": "/politique/elections",
+                        "_website": "liberation",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Elections",
+                        "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                        "path": "/politique/elections",
+                        "parent_id": "/politique",
+                        "parent": {
+                            "default": "/politique"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/politique/elections",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Elections : sondages, dates et résultats - Libération",
+                                    "site_about": "",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                    "site_keywords": null
+                                },
+                                "site_topper": {
+                                    "site_logo_image": ""
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "facebook": null,
+                                    "rss": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": null
+                                },
+                                "_admin": {
+                                    "alias_ids": ["/politique/elections", "200002"]
+                                },
+                                "_website": "liberation",
+                                "name": "Elections",
+                                "order": {
+                                    "default": 2001,
+                                    "burgermenu": 2001,
+                                    "headernav": 2001,
+                                    "amp-menu": 2001,
+                                    "footer": 3001,
+                                    "footer2": 2002
+                                },
+                                "parent": {
+                                    "default": "/politique",
+                                    "burgermenu": "/politique",
+                                    "footer": "/politique",
+                                    "headernav": "/politique",
+                                    "amp-menu": "/politique",
+                                    "footer2": "/idees-et-debats"
+                                },
+                                "ancestors": {
+                                    "default": ["/politique"],
+                                    "burgermenu": ["/", "/politique"],
+                                    "footer": ["/", "/rubriques", "/politique"],
+                                    "headernav": ["/politique"],
+                                    "amp-menu": ["/", "/politique"],
+                                    "footer2": ["/idees-et-debats"]
+                                },
+                                "inactive": false,
+                                "node_type": "section"
+                            }
+                        },
+                        "_website_section_id": "liberation./politique/elections"
+                    },
+                    "website_url": "/politique/elections/ministere-secret-francois-hollande-et-nicolas-sarkozy-plantent-mathieu-sapin-20211115_3PRPXVOEG5ATXIXMI3DPQVKCXY/"
+                }
+            },
+            "publish_date": "2021-12-06T13:32:54.656Z",
+            "slug": "",
+            "canonical_url": "/politique/elections/ministere-secret-francois-hollande-et-nicolas-sarkozy-plantent-mathieu-sapin-20211115_3PRPXVOEG5ATXIXMI3DPQVKCXY/",
+            "website": "liberation",
+            "website_url": "/politique/elections/ministere-secret-francois-hollande-et-nicolas-sarkozy-plantent-mathieu-sapin-20211115_3PRPXVOEG5ATXIXMI3DPQVKCXY/"
+        },
+        {
+            "_id": "XRN6QRC3YVCS7A53KDTFF5XFR4",
+            "type": "story",
+            "content_elements": [{
+                "_id": "F3LQXT2HPFGX5LY3EKLSQB3CPA",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1637074344254,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<i>«Le Ministère Secret a décidé de rendre publics tous ses dossiers sensibles en vue des élections. Les Français sont assez mûrs pour savoir. Non, en vrai ils sont complètement cons mais il faut bien qu’on fasse quelque chose.»</i> (Joann Sfar)"
+            }, {
+                "_id": "BKPNFLQ52RHFZCDROB3MW5WWVE",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1637074344258,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<b>Episode précédent : </b><a href=\"https://www.liberation.fr/politique/elections/ministere-secret-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-reindustrialisent-la-france-20211108_ARO3P7R6GVH2LLMLFIJF3I4IF4/\" target=\"_blank\"><b>François Hollande et Nicolas Sarkozy plantent Mathieu Sapin</b></a>"
+            }, {
+                "_id": "BL25ZVPFIRAK7DOFQJJUBUMYV4",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/97_u30_bG2BdLlTLTRoeSIDJW2s=/arc-photo-liberation/eu-central-1-prod/public/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "Strip ministère16-11-1.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                    "owner": "g.dhers@liberation.fr",
+                    "proxyUrl": "/resizer/97_u30_bG2BdLlTLTRoeSIDJW2s=/arc-photo-liberation/eu-central-1-prod/public/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/97_u30_bG2BdLlTLTRoeSIDJW2s=/arc-photo-liberation/eu-central-1-prod/public/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/9cUkt7-qLR225bXiDypTDNTylkA=/300x0/arc-photo-liberation/eu-central-1-prod/public/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                    "version": 1,
+                    "template_id": 183,
+                    "_id": "KQJYI6GD5ZF5JIXFN6JIMUFSPA",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-16T14:39:15Z",
+                "credits": {
+                    "affiliation": []
+                },
+                "height": 3900,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-16T15:26:24Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "subtitle": "Ministère secret 16-11-1",
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/BL25ZVPFIRAK7DOFQJJUBUMYV4.jpg",
+                "version": "0.10.3",
+                "width": 981,
+                "syndication": {},
+                "resized_params": {
+                    "84x56": "fB_bjqWWoAsAIogPjPxoFZnvoYc=filters:format(jpg):quality(70)/",
+                    "105x70": "B0Y-mK_D1dX_Cbm-rQvJ7SzeHU4=filters:format(jpg):quality(70)/",
+                    "158x105": "yfYRR5QfoCzb5jqNIFE4tBNdI7g=filters:format(jpg):quality(70)/",
+                    "274x183": "_nXq7TRw5tqr1EDKlK3le7ani7Y=filters:format(jpg):quality(70)/",
+                    "377x251": "-MlnCDN5y3oguhD2_I7_GCgqBzY=filters:format(jpg):quality(70)/",
+                    "400x267": "QtCbx1BIf1Zg5N9bDAeRPJ8y7lU=filters:format(jpg):quality(70)/",
+                    "600x400": "Wj2XFn2VpZpiSH75jjCv3fMIeEQ=filters:format(jpg):quality(70)/",
+                    "768x512": "3T7L3fy-TT4ZCja_jJysRJp8MFc=filters:format(jpg):quality(70)/",
+                    "800x533": "hkMbtmFa7QNxnP17p21fqeY06gQ=filters:format(jpg):quality(70)/",
+                    "1024x683": "IonQl5vyFT7VdHSsGgGOli9-Pf4=filters:format(jpg):quality(70)/",
+                    "1440x960": "4qngaA06v4-YJMfGVBLKan88nLQ=filters:format(jpg):quality(70)/",
+                    "1600x1067": "6C_1ZkkPfxd0dFf0fiDEzIQmzF0=filters:format(jpg):quality(70)/",
+                    "84x63": "vWfXUO0O8LQT5sQRunI7rTyVyrk=filters:format(jpg):quality(70)/",
+                    "105x79": "Hq99zHCprbyD4iIbvGHyDKFbK84=filters:format(jpg):quality(70)/",
+                    "158x119": "hZ0StuuQeWZb_sAKlik8qF8V9e4=filters:format(jpg):quality(70)/",
+                    "274x206": "Sr2vOSH3nvm6xV57FILdVwOzWnI=filters:format(jpg):quality(70)/",
+                    "377x283": "gQLGttjGdXbZuvhTyvFM3ildMBg=filters:format(jpg):quality(70)/",
+                    "400x300": "9lb4UCGCK2aXbnAKKCJRod8g24w=filters:format(jpg):quality(70)/",
+                    "600x450": "TPeG6e7ETnLRK1HpsiOjzFgBP0M=filters:format(jpg):quality(70)/",
+                    "768x576": "fKmrA2ijO7jRfUfHQFEPOAVXZZE=filters:format(jpg):quality(70)/",
+                    "800x600": "IUI0jguoQNoLWAawGXRdVLIn3mY=filters:format(jpg):quality(70)/",
+                    "1024x768": "SVgeOtOzXA2_FddHb4S-piBOWfc=filters:format(jpg):quality(70)/",
+                    "1440x1080": "s8BZABOeNXjk-r-_seGw7Z7573A=filters:format(jpg):quality(70)/",
+                    "1600x1200": "C-L1KyQxNNm0-EUlqj2mkRXxjsc=filters:format(jpg):quality(70)/",
+                    "84x0": "SKEFSR0zouW7G6_2mvzqRwTivc0=filters:format(jpg):quality(70)/",
+                    "105x0": "VQy0ERD9QVbpOJ2lsCxXjbUf3ho=filters:format(jpg):quality(70)/",
+                    "158x0": "eTFBTaE9r30a0P0yWQvfWdvGer0=filters:format(jpg):quality(70)/",
+                    "274x0": "1rV-tpaw3YFdCMZyJ3AdVb1LFfs=filters:format(jpg):quality(70)/",
+                    "377x0": "BqyID_jYFv3fKqZ4cYbHh2z9q3A=filters:format(jpg):quality(70)/",
+                    "400x0": "RET7DJlz-RbBT6P33cL6oZH6xBY=filters:format(jpg):quality(70)/",
+                    "600x0": "dD7qvtGRL_orByerNQNdYST1Kns=filters:format(jpg):quality(70)/",
+                    "768x0": "NVbZ3QO2nb9PrOlU7XIkhOUD70c=filters:format(jpg):quality(70)/",
+                    "800x0": "i-AlDEMSudMcWbi1vtpjis30vaA=filters:format(jpg):quality(70)/",
+                    "1024x0": "LAP8Ez_V-CCnSiWHJHenWbDjX3w=filters:format(jpg):quality(70)/",
+                    "1440x0": "a-LjSNEMmD20uNnoWgi00ZQ7POo=filters:format(jpg):quality(70)/",
+                    "1600x0": "CFDyvnvu21dVUVBATDeTAfdw7oU=filters:format(jpg):quality(70)/",
+                    "84x47": "j0B9cukFZxYVinvY9uizF6EP2Vc=filters:format(jpg):quality(70)/",
+                    "105x59": "jHlIWRs1EXXpkiVqP5TGaDyARgI=filters:format(jpg):quality(70)/",
+                    "158x89": "c5a0mjcIs4bIG2-rh8nvBlWfsqk=filters:format(jpg):quality(70)/",
+                    "274x154": "YnOcRehAHHIH-9GS0AGWJuFe1vI=filters:format(jpg):quality(70)/",
+                    "377x212": "V7aeuWS3P7C1jpF17tPOG2I72Q8=filters:format(jpg):quality(70)/",
+                    "400x225": "E54PCxG4gO1Tr9kguuUAbEpx9aY=filters:format(jpg):quality(70)/",
+                    "600x338": "9Rrpi-DRJ8cmqI-4ww4qDe0T1Js=filters:format(jpg):quality(70)/",
+                    "768x432": "XNQ8llyf-EtvmaYn1l8IbVk3c7Q=filters:format(jpg):quality(70)/",
+                    "800x450": "CvcYuSuzqerFFzEg1am816z6gps=filters:format(jpg):quality(70)/",
+                    "1024x576": "ShBlksOaBHNTX1M5fHCkspsqS4A=filters:format(jpg):quality(70)/",
+                    "1440x810": "D4p0a8u4RYrUNmfp0EhG_ysINmA=filters:format(jpg):quality(70)/",
+                    "1600x900": "sDNoNUNoo-HpqZ9hjJQtXNQ-3UY=filters:format(jpg):quality(70)/",
+                    "84x84": "GEKqc74mKtNUZzCaSy4FgGdzSw8=filters:format(jpg):quality(70)/",
+                    "105x105": "2RqDbzfcuT4-s3CSILBPw79VsQs=filters:format(jpg):quality(70)/",
+                    "158x158": "kefDXI3jDT4Fj7K-I9ygIw6JIos=filters:format(jpg):quality(70)/",
+                    "274x274": "D-dtfg43L7PnM19iUrm3lwFbDqI=filters:format(jpg):quality(70)/",
+                    "377x377": "QWfvJTkq1QGwbfpYYMwDb5JJbAA=filters:format(jpg):quality(70)/",
+                    "400x400": "Az99IPU_nlu0iwen-q7eiA1-2Nc=filters:format(jpg):quality(70)/",
+                    "600x600": "gQ_CNn5KDlz7LfySdkgAHREzt7U=filters:format(jpg):quality(70)/",
+                    "768x768": "dlezspYlxlg9bzT42ObHslSWzXI=filters:format(jpg):quality(70)/",
+                    "800x800": "GHbaQvrThRrr_WGLy9qtGGgCHAU=filters:format(jpg):quality(70)/",
+                    "1024x1024": "OdDBgGoHo8ef1cW3Swjqmo9Heo4=filters:format(jpg):quality(70)/",
+                    "1440x1440": "PH5K9ocQGvNCw8g2NNTyVzN1ItI=filters:format(jpg):quality(70)/",
+                    "1600x1600": "ZYAXcrbkAaPQVtpj_Ccp_Yedas4=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "SEIM4GQEFJCMLPX2HOAV3DQ6CA",
+                "additional_properties": {
+                    "fullSizeResizeUrl": "/resizer/-2CgdMkflnPrjea1sPrMR9TAZKc=/arc-photo-liberation/eu-central-1-prod/public/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                    "galleries": [],
+                    "ingestionMethod": "manual",
+                    "keywords": [""],
+                    "mime_type": "image/jpeg",
+                    "originalName": "Ministère secret  16-11-2.jpg",
+                    "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                    "owner": "g.dhers@liberation.fr",
+                    "proxyUrl": "/resizer/-2CgdMkflnPrjea1sPrMR9TAZKc=/arc-photo-liberation/eu-central-1-prod/public/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                    "published": true,
+                    "resizeUrl": "/resizer/-2CgdMkflnPrjea1sPrMR9TAZKc=/arc-photo-liberation/eu-central-1-prod/public/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                    "restricted": false,
+                    "thumbnailResizeUrl": "/resizer/J8SbllLZFudoj9NHHGz_BABBFbY=/300x0/arc-photo-liberation/eu-central-1-prod/public/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                    "version": 1,
+                    "template_id": 183,
+                    "_id": "OHUITMUT75HMHAOWJFW2KRW4XI",
+                    "comments": []
+                },
+                "address": {},
+                "created_date": "2021-11-16T14:39:15Z",
+                "credits": {
+                    "affiliation": []
+                },
+                "height": 4146,
+                "image_type": "photograph",
+                "last_updated_date": "2021-11-16T15:26:23Z",
+                "licensable": false,
+                "owner": {
+                    "id": "liberation",
+                    "sponsored": false
+                },
+                "source": {
+                    "additional_properties": {
+                        "editor": "photo center"
+                    },
+                    "edit_url": "",
+                    "system": "photo center"
+                },
+                "subtitle": "Ministère secret 16-11-2",
+                "taxonomy": {
+                    "associated_tasks": []
+                },
+                "type": "image",
+                "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/SEIM4GQEFJCMLPX2HOAV3DQ6CA.jpg",
+                "version": "0.10.3",
+                "width": 858,
+                "syndication": {},
+                "resized_params": {
+                    "84x56": "39E3pq5zfO9WAXUZxgv5pS_tT9Y=filters:format(jpg):quality(70)/",
+                    "105x70": "FJcp6vUCVhhdiAeHvYr2X6zw-xA=filters:format(jpg):quality(70)/",
+                    "158x105": "j5ukrDR6sAQel6YIkzYDoKy6n6U=filters:format(jpg):quality(70)/",
+                    "274x183": "wwEAspYB4-iqEN4pjKXTYvwUuuc=filters:format(jpg):quality(70)/",
+                    "377x251": "yvGM87ipmBCz1_Pbo68jlHtlagg=filters:format(jpg):quality(70)/",
+                    "400x267": "UIgeiwuvI5LmL8cfjHR2wy1kWkw=filters:format(jpg):quality(70)/",
+                    "600x400": "5PpKRCUXUDVZM4Hkmu9jYfC_STM=filters:format(jpg):quality(70)/",
+                    "768x512": "MV7LpANFva8vQpuWRI4ZPRHippA=filters:format(jpg):quality(70)/",
+                    "800x533": "Qaye-u1e01Ri-E98uXeednO7nHc=filters:format(jpg):quality(70)/",
+                    "1024x683": "qvrSy7fF1CR9osK5ngLbWiUXAVY=filters:format(jpg):quality(70)/",
+                    "1440x960": "A8MXN5p39EdcRQZ3cP4KyP6x9QI=filters:format(jpg):quality(70)/",
+                    "1600x1067": "sunE8EG0q2hdZy6gjqhRv3sIu9A=filters:format(jpg):quality(70)/",
+                    "84x63": "xYkrITcBeVCoyzpBbL0wbpmqXf8=filters:format(jpg):quality(70)/",
+                    "105x79": "lDAE_JgIY6kKxBxNjzJD4RQ3E8A=filters:format(jpg):quality(70)/",
+                    "158x119": "PUr-cCcCNyzKCz1u1YQPo9V59fQ=filters:format(jpg):quality(70)/",
+                    "274x206": "VPLFB8wVJCQbzMpBpIeYPvuJ9us=filters:format(jpg):quality(70)/",
+                    "377x283": "G7r515gOt7o-LK3IxPttlFefSYQ=filters:format(jpg):quality(70)/",
+                    "400x300": "lfORmX-8shfvdwGk3T2v4bjTy08=filters:format(jpg):quality(70)/",
+                    "600x450": "WLsnRI5NJz7dutnD_JU5zweinn8=filters:format(jpg):quality(70)/",
+                    "768x576": "XB8EGwmGM4GXX69WzvN0D_y2Pdc=filters:format(jpg):quality(70)/",
+                    "800x600": "m45gMkwYT04yTza38B9L05a6ens=filters:format(jpg):quality(70)/",
+                    "1024x768": "Zk3e7b5rQamAmeM6mPDadQz50Fs=filters:format(jpg):quality(70)/",
+                    "1440x1080": "hOb0lqhYZ9-dFoGq6doyMOi5C_c=filters:format(jpg):quality(70)/",
+                    "1600x1200": "sFic_xttoT_vM3a34MUe9qSCTrg=filters:format(jpg):quality(70)/",
+                    "84x0": "64qKLppAo5l4pLY7iHP6ib2Ol78=filters:format(jpg):quality(70)/",
+                    "105x0": "9Ltz79JCJ1LpZJ1PfsjEngh5N90=filters:format(jpg):quality(70)/",
+                    "158x0": "fukkmmP14ADWejqsp1y6fcOo-8o=filters:format(jpg):quality(70)/",
+                    "274x0": "PolAZj7IB--wphJl9TXX-qjGCjw=filters:format(jpg):quality(70)/",
+                    "377x0": "h8vXa_i_O2oDmm-MfD8krElrtko=filters:format(jpg):quality(70)/",
+                    "400x0": "Ah8iQIQa3QsytSl78xkZWSzW4iY=filters:format(jpg):quality(70)/",
+                    "600x0": "ltpXt-L9VrstbR9q6APc8xKoNRM=filters:format(jpg):quality(70)/",
+                    "768x0": "YAD4VTGdJNuH6olZUeJXEA8hf3U=filters:format(jpg):quality(70)/",
+                    "800x0": "KmJ5hsstUrfdzimLvNLg4WCpxvs=filters:format(jpg):quality(70)/",
+                    "1024x0": "5zQ26HPEwzIRrnpq_kcvEbnWweE=filters:format(jpg):quality(70)/",
+                    "1440x0": "d7zNBEdwiB2bGpaJAzpaeX5xieo=filters:format(jpg):quality(70)/",
+                    "1600x0": "qwQF9sELeXW0tRIZp3hIlZgVtto=filters:format(jpg):quality(70)/",
+                    "84x47": "j2_MG9b7_I9QQX18dCNgXZD6VXo=filters:format(jpg):quality(70)/",
+                    "105x59": "z6dUjVFXMw6opixN81G-Hw2B6xQ=filters:format(jpg):quality(70)/",
+                    "158x89": "oamv9pWvf89Nhiwu4rdG1sz4-x4=filters:format(jpg):quality(70)/",
+                    "274x154": "J40gZwURilvSKHJjHIDey3OqhaQ=filters:format(jpg):quality(70)/",
+                    "377x212": "WjJCFMK6RwFHgcmCb79p7Pbfr8k=filters:format(jpg):quality(70)/",
+                    "400x225": "v282R4jY7jGwGVww3f-v8dsOFes=filters:format(jpg):quality(70)/",
+                    "600x338": "2bs6aKnftXwursvAS67rPFHHSs4=filters:format(jpg):quality(70)/",
+                    "768x432": "wioOArd08Zshcnt5RDpoIMBKYKA=filters:format(jpg):quality(70)/",
+                    "800x450": "_kLCzjhQoq_EdtitytgD5gzJqhs=filters:format(jpg):quality(70)/",
+                    "1024x576": "ZSNX-U7R37tASkjg1UHbsNIlBPg=filters:format(jpg):quality(70)/",
+                    "1440x810": "v6F9k3iGaY2yTEf7YRnKX_pDMJQ=filters:format(jpg):quality(70)/",
+                    "1600x900": "naWcl97mCpkBjGK4BcWLKuCGYkM=filters:format(jpg):quality(70)/",
+                    "84x84": "TIZak4lE_gXmvq3LSe6Uh5_uxE8=filters:format(jpg):quality(70)/",
+                    "105x105": "8U_d4LlY7tUr74dKTONAndduBio=filters:format(jpg):quality(70)/",
+                    "158x158": "sA40A03j-DzjhbzIF4t3O9KVnLw=filters:format(jpg):quality(70)/",
+                    "274x274": "YE3ndl1RZoTOTPPGpnxWsQY3FNQ=filters:format(jpg):quality(70)/",
+                    "377x377": "uBZQFxgwl2rrYo_62StY_43nUNo=filters:format(jpg):quality(70)/",
+                    "400x400": "oEhUbg9tSqqOlR0L3_7EFBDv2Oc=filters:format(jpg):quality(70)/",
+                    "600x600": "znrKGQIwyWFDA-iR-FAPs-D8svI=filters:format(jpg):quality(70)/",
+                    "768x768": "yXL4pQ31wXDvxI0-dkve8uQ5FEk=filters:format(jpg):quality(70)/",
+                    "800x800": "YWHK_36OzujfRH1GzRysMyKgJQ4=filters:format(jpg):quality(70)/",
+                    "1024x1024": "Ikm5sY2pVPlyYVQcm1G2rlPDduo=filters:format(jpg):quality(70)/",
+                    "1440x1440": "6UCwHxyRRfamduf6Kt_OTJSIf24=filters:format(jpg):quality(70)/",
+                    "1600x1600": "vakRP48ajnlTg8nRuVIh2QPfoSE=filters:format(jpg):quality(70)/"
+                }
+            }, {
+                "_id": "BKPNFLQ52RHFZCDROB3MW5WWVE",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1637074344258,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<a href=\"https://www.liberation.fr/politique/elections/thomas-pesquet-au-secours-du-ministere-secret-20211117_AIOCPHA3JFB5PF7WRQ2EXF2ATI/\" target=\"_blank\"><b>L’épisode suivant</b></a><b>: Thomas Pesquet au secours du «Ministère secret»?</b>"
+            }, {
+                "_id": "SYIBFLREWNABNJEKDNO7UPKG5Y",
+                "type": "text",
+                "additional_properties": {
+                    "_id": 1637170102968,
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "<a href=\"https://www.liberation.fr/politique/elections/comment-francois-hollande-nicolas-sarkozy-et-mathieu-sapin-se-sont-retrouves-a-enqueter-sur-la-presidentielle-avec-libe-20211105_72MZPQ2Q7JB2ZINOCIALUWC55U/\"><b>Comment François Hollande, Nicolas Sarkozy et Matthieu Sapin se sont retrouvés à enquêter pour </b><i><b>Libé</b></i></a>"
+            }],
+            "created_date": "2021-11-16T14:34:15.125Z",
+            "last_updated_date": "2021-12-06T13:31:24.467Z",
+            "headlines": {
+                "basic": "De Gaulle engueule Sapin",
+                "meta_title": "",
+                "mobile": "",
+                "native": "",
+                "print": "",
+                "tablet": "",
+                "web": ""
+            },
+            "owner": {
+                "sponsored": false,
+                "id": "liberation"
+            },
+            "content_restrictions": {
+                "content_code": "ouvert"
+            },
+            "subheadlines": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec des strips inédits en réaction à l’actualité de la campagne présidentielle. Ces «enquêtes présidentielles» mettent en scène Mathieu Sapin, François Hollande et Nicolas Sarkozy, tous trois héros de la série «Le Ministère secret» aux éditions Dupuis. Vous les retrouverez toutes les semaines, puis quotidiennement à partir de janvier."
+            },
+            "description": {
+                "basic": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de « Libération » avec des strips inédits en réaction à l’actualité de la présidentielle."
+            },
+            "language": "",
+            "label": {
+                "basic": {
+                    "display": true,
+                    "text": "BD épisode 3"
+                }
+            },
+            "source": {
+                "name": "liberation",
+                "source_type": "staff",
+                "system": "composer"
+            },
+            "taxonomy": {
+                "sections": [{
+                    "_id": "/politique/elections",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Elections",
+                    "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                    "path": "/politique/elections",
+                    "parent_id": "/politique",
+                    "parent": {
+                        "default": "/politique"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique/elections",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Elections : sondages, dates et résultats - Libération",
+                                "site_about": "",
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": ""
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": null
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique/elections", "200002"]
+                            },
+                            "_website": "liberation",
+                            "name": "Elections",
+                            "order": {
+                                "default": 2001,
+                                "burgermenu": 2001,
+                                "headernav": 2001,
+                                "amp-menu": 2001,
+                                "footer": 3001,
+                                "footer2": 2002
+                            },
+                            "parent": {
+                                "default": "/politique",
+                                "burgermenu": "/politique",
+                                "footer": "/politique",
+                                "headernav": "/politique",
+                                "amp-menu": "/politique",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": ["/politique"],
+                                "burgermenu": ["/", "/politique"],
+                                "footer": ["/", "/rubriques", "/politique"],
+                                "headernav": ["/politique"],
+                                "amp-menu": ["/", "/politique"],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique/elections"
+                }, {
+                    "_id": "/politique",
+                    "_website": "liberation",
+                    "type": "section",
+                    "version": "0.6.0",
+                    "name": "Politique",
+                    "description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                    "path": "/politique",
+                    "parent_id": "/",
+                    "parent": {
+                        "default": "/"
+                    },
+                    "additional_properties": {
+                        "original": {
+                            "_id": "/politique",
+                            "site": {
+                                "site_tagline": null,
+                                "site_url": null,
+                                "site_title": "Toute l'actualité Politique en continu avec Libération",
+                                "site_about": null,
+                                "pagebuilder_path_for_native_apps": null,
+                                "site_description": "L'info politique à suivre avec Libération : actualités des partis, la gestion du gouvernement, les élections, les réformes, l'activité à l'Assemblée nationale et au Sénat...",
+                                "site_keywords": null
+                            },
+                            "site_topper": {
+                                "site_logo_image": null
+                            },
+                            "social": {
+                                "twitter": null,
+                                "facebook": null,
+                                "rss": null,
+                                "instagram": null
+                            },
+                            "navigation": {
+                                "nav_title": "Politique"
+                            },
+                            "_admin": {
+                                "alias_ids": ["/politique", "100666"]
+                            },
+                            "_website": "liberation",
+                            "name": "Politique",
+                            "order": {
+                                "default": 1002,
+                                "amp-menu": 1002,
+                                "burgermenu": 1003,
+                                "accueil-tag-block": 1001,
+                                "headernav": 1002,
+                                "footer": 2001,
+                                "footer2": 2001
+                            },
+                            "parent": {
+                                "default": "/",
+                                "amp-menu": "/",
+                                "footer-nav-bar": null,
+                                "burgermenu": "/",
+                                "footer": "/rubriques",
+                                "accueil-tag-block": "/",
+                                "Test": null,
+                                "headernav": "/",
+                                "footer2": "/idees-et-debats"
+                            },
+                            "ancestors": {
+                                "default": [],
+                                "amp-menu": ["/"],
+                                "footer-nav-bar": [],
+                                "burgermenu": ["/"],
+                                "footer": ["/", "/rubriques"],
+                                "accueil-tag-block": ["/"],
+                                "Test": [],
+                                "headernav": [],
+                                "footer2": ["/idees-et-debats"]
+                            },
+                            "inactive": false,
+                            "node_type": "section"
+                        }
+                    },
+                    "_website_section_id": "liberation./politique"
+                }],
+                "tags": [{
+                    "description": "Joann Sfar et Mathieu Sapin donnent rendez-vous aux lecteurs de «Libération» avec la publication de strips inédits en résonnance avec l’actualité de la campagne pour l’élection présidentielle.",
+                    "slug": "ministere-secret-les-enquetes-presidentielles-de-mathieu-sapin-et-joann-sfar",
+                    "text": "Ministère secret : les «Enquêtes présidentielles» de Mathieu Sapin et Joann Sfar"
+                }]
+            },
+            "promo_items": {
+                "basic": {
+                    "_id": "QWWWD3A7WVCSBCXHEBQ7NFBY4M",
+                    "additional_properties": {
+                        "fullSizeResizeUrl": "/resizer/dChob7lJsII-7NSX3FJwUr33Wmg=/arc-photo-liberation/eu-central-1-prod/public/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                        "galleries": [],
+                        "ingestionMethod": "manual",
+                        "keywords": [""],
+                        "mime_type": "image/jpeg",
+                        "originalName": "Ministère secret  16-11-vignette.jpg",
+                        "originalUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                        "owner": "g.dhers@liberation.fr",
+                        "proxyUrl": "/resizer/dChob7lJsII-7NSX3FJwUr33Wmg=/arc-photo-liberation/eu-central-1-prod/public/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                        "published": true,
+                        "resizeUrl": "/resizer/dChob7lJsII-7NSX3FJwUr33Wmg=/arc-photo-liberation/eu-central-1-prod/public/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                        "restricted": false,
+                        "thumbnailResizeUrl": "/resizer/XmP1DuNlEErso4pslU__JI6UYwI=/300x0/arc-photo-liberation/eu-central-1-prod/public/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                        "version": 1,
+                        "template_id": 183
+                    },
+                    "address": {},
+                    "created_date": "2021-11-16T14:51:11Z",
+                    "credits": {
+                        "affiliation": []
+                    },
+                    "height": 700,
+                    "image_type": "photograph",
+                    "last_updated_date": "2021-11-16T15:26:23Z",
+                    "licensable": false,
+                    "owner": {
+                        "id": "liberation",
+                        "sponsored": false
+                    },
+                    "source": {
+                        "additional_properties": {
+                            "editor": "photo center"
+                        },
+                        "edit_url": "",
+                        "system": "photo center"
+                    },
+                    "taxonomy": {
+                        "associated_tasks": []
+                    },
+                    "resized_params": {
+                        "84x56": "2zoKdcKdddB3bpPqsnp-7RVq0WI=filters:format(jpg):quality(70)/",
+                        "105x70": "2R6Q00uovGQppFjP-Hr2b73fWHI=filters:format(jpg):quality(70)/",
+                        "158x105": "ktYj1YSTEcjvgO4DDCgIvuT3Zog=filters:format(jpg):quality(70)/",
+                        "274x183": "k830K5lFRdOxkNHvP6VT3nqhg1Q=filters:format(jpg):quality(70)/",
+                        "377x251": "3GEmlWInVQoKhO0SOtoWs4qLBpI=filters:format(jpg):quality(70)/",
+                        "400x267": "H0hupCjw1x6W7lf106bvn4o8o_c=filters:format(jpg):quality(70)/",
+                        "600x400": "gxLGsLFPZsaZ1BcuONk4jIRewpA=filters:format(jpg):quality(70)/",
+                        "768x512": "ENLOVW1QR4B3xpZvzXVoUOGM_8Q=filters:format(jpg):quality(70)/",
+                        "800x533": "RE-oRPp9JJLr2gNUDDy6XnOrfqk=filters:format(jpg):quality(70)/",
+                        "1024x683": "MXzqaBrApWVx6Ranvi5GV51fAzg=filters:format(jpg):quality(70)/",
+                        "1440x960": "W3GPVqZacjamfkg9CFy5np4llkQ=filters:format(jpg):quality(70)/",
+                        "1600x1067": "W7-7r6A_1F6YzWv_lrvTbFlGrQc=filters:format(jpg):quality(70)/",
+                        "84x63": "sAMdHeb804L9fRV11_aupqFqgLc=filters:format(jpg):quality(70)/",
+                        "105x79": "N2RPDG0cG-kqnIvpyOqeWe-Z2k8=filters:format(jpg):quality(70)/",
+                        "158x119": "wFnxodNVHpb8BSw9h5h6T_J_Nzw=filters:format(jpg):quality(70)/",
+                        "274x206": "LdDRVgQIQIqZuKTVJ4qlF4FWc4k=filters:format(jpg):quality(70)/",
+                        "377x283": "oBuq5-HiBUdf7X-NfFpLAMTVKyE=filters:format(jpg):quality(70)/",
+                        "400x300": "8sQHc5JmEJr2dSlsKEzew57a_2s=filters:format(jpg):quality(70)/",
+                        "600x450": "LD7UI5fNO1Gp2UxMZmbnfFex73Y=filters:format(jpg):quality(70)/",
+                        "768x576": "_Z6F3exKpGZ2_bPnOCqtgAahrrk=filters:format(jpg):quality(70)/",
+                        "800x600": "52rJcNwvmteS98TUqDnIUP9u6AY=filters:format(jpg):quality(70)/",
+                        "1024x768": "5ZlibeGocq1tUapZtLfiD2Fbiu4=filters:format(jpg):quality(70)/",
+                        "1440x1080": "SoSnVYJgtGp6dhhyNvcr7w8AKBY=filters:format(jpg):quality(70)/",
+                        "1600x1200": "PhifKTyDGG-SCwwWgWY9rtqwc7A=filters:format(jpg):quality(70)/",
+                        "84x0": "ZJsHESvTG5RGxI9e2zJsSq5jgvQ=filters:format(jpg):quality(70)/",
+                        "105x0": "m1hHVMxAj34VoFN4vgeT-td7JKQ=filters:format(jpg):quality(70)/",
+                        "158x0": "QmlmN1pmfmTYs6RzO4z6hSy932U=filters:format(jpg):quality(70)/",
+                        "274x0": "7bVUhxzXdWAfKP5lasPpN0zJXG8=filters:format(jpg):quality(70)/",
+                        "377x0": "33WufySf9pRT-3CBrTEgWMGaH54=filters:format(jpg):quality(70)/",
+                        "400x0": "K6SS3g2ONzETUK6Cj37pgsAsfPI=filters:format(jpg):quality(70)/",
+                        "600x0": "H0uu6Rn6rvBbffAYMtbzr5klgKo=filters:format(jpg):quality(70)/",
+                        "768x0": "AAtyUxgPYiWsD9FrKC5mrYK4SQI=filters:format(jpg):quality(70)/",
+                        "800x0": "6V7LhIKKvF3EPe5bgr5n_uVjcng=filters:format(jpg):quality(70)/",
+                        "1024x0": "U9YZiAPoZr5YuydUh7NGXRdNsQ8=filters:format(jpg):quality(70)/",
+                        "1440x0": "TBcHPkTkk0VN687gSViDhzOt0NE=filters:format(jpg):quality(70)/",
+                        "1600x0": "hKmSdT9AHWF7JM3BnsNU5VB4lhE=filters:format(jpg):quality(70)/",
+                        "84x47": "0ajKeYO8CSEbRg7zbS9FoGIUWkE=filters:format(jpg):quality(70)/",
+                        "105x59": "_oYAofJ6JmxoRWuzar8uI7lYZNA=filters:format(jpg):quality(70)/",
+                        "158x89": "s1iSfSstKcoZVuyKBaHjxRtiEmA=filters:format(jpg):quality(70)/",
+                        "274x154": "rGewOO-5KMfnYnwQncCF9U1_du8=filters:format(jpg):quality(70)/",
+                        "377x212": "2ycoYxw52H1pZyhuLS_cF3blVU8=filters:format(jpg):quality(70)/",
+                        "400x225": "iGfQlalXYksr1TPGIcMnOb6ra5g=filters:format(jpg):quality(70)/",
+                        "600x338": "ZGVKqKSQKpsDTZWinkvfR3bowyI=filters:format(jpg):quality(70)/",
+                        "768x432": "IcjuBvopf1zNVkknS4NcjQ9zIfE=filters:format(jpg):quality(70)/",
+                        "800x450": "GnYU2R2fWyXh9FzQ3oq3gP62FKc=filters:format(jpg):quality(70)/",
+                        "1024x576": "9I2iqP-Ou5MRtHMgPi2eoR8oBfE=filters:format(jpg):quality(70)/",
+                        "1440x810": "GybYJVhLYwAXLHC7vsn399bopyM=filters:format(jpg):quality(70)/",
+                        "1600x900": "r0221w2M5qkDneta8RPPxvTTtlU=filters:format(jpg):quality(70)/",
+                        "84x84": "t0s2qalQVFejyRvApf8TNNnBH_o=filters:format(jpg):quality(70)/",
+                        "105x105": "FGuAoE1CxEjn5aBE6oA77Co35W0=filters:format(jpg):quality(70)/",
+                        "158x158": "tfX2DfvRYcB77gVfMwz-hxS8dno=filters:format(jpg):quality(70)/",
+                        "274x274": "vl_qE2yIucSSHINZ6lIQmcuQJMs=filters:format(jpg):quality(70)/",
+                        "377x377": "9YyWu1p5RzRFDAJyJCGqCzA0L7E=filters:format(jpg):quality(70)/",
+                        "400x400": "etwsCuz7VxYecYFdxIUAGzjoOmk=filters:format(jpg):quality(70)/",
+                        "600x600": "AmohTbA4d0PQWzW2MxZUl_Zka5M=filters:format(jpg):quality(70)/",
+                        "768x768": "utdYZBDkg0u9qBcJDYYKfrXj5Tg=filters:format(jpg):quality(70)/",
+                        "800x800": "jF8UTPZRY6wjosFvQh2ILibFITo=filters:format(jpg):quality(70)/",
+                        "1024x1024": "IYnLWYw5_ffIsW5mbK0eRNHgiv0=filters:format(jpg):quality(70)/",
+                        "1440x1440": "jd2X_HRml3vS9-wp92OCYBK198w=filters:format(jpg):quality(70)/",
+                        "1600x1600": "aM8nx6SZ0lUq7qLxsN3VGtmmAa8=filters:format(jpg):quality(70)/"
+                    },
+                    "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/liberation/QWWWD3A7WVCSBCXHEBQ7NFBY4M.jpg",
+                    "type": "image",
+                    "version": "0.10.3",
+                    "width": 733,
+                    "syndication": {}
+                }
+            },
+            "related_content": {
+                "basic": [],
+                "redirect": []
+            },
+            "distributor": {
+                "category": "staff",
+                "name": "liberation",
+                "subcategory": ""
+            },
+            "canonical_website": "liberation",
+            "geo": {},
+            "planning": {
+                "internal_note": "",
+                "scheduling": {
+                    "planned_publish_date": "2021-11-16T16:31:00.000Z"
+                },
+                "story_length": {
+                    "character_count_actual": 483,
+                    "character_encoding": "UTF-16",
+                    "inch_count_actual": 1,
+                    "line_count_actual": 5,
+                    "word_count_actual": 75
+                }
+            },
+            "display_date": "2021-11-16T15:26:23.759Z",
+            "credits": {
+                "by": [{
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Joann Sfar",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }, {
+                    "additional_properties": {
+                        "original": {
+                            "author_type": ""
+                        }
+                    },
+                    "name": "Mathieu Sapin",
+                    "org": "",
+                    "type": "author",
+                    "resized_params": {}
+                }]
+            },
+            "subtype": "default",
+            "first_publish_date": "2021-11-16T15:26:23.759Z",
+            "websites": {
+                "liberation": {
+                    "website_section": {
+                        "_id": "/politique/elections",
+                        "_website": "liberation",
+                        "type": "section",
+                        "version": "0.6.0",
+                        "name": "Elections",
+                        "description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                        "path": "/politique/elections",
+                        "parent_id": "/politique",
+                        "parent": {
+                            "default": "/politique"
+                        },
+                        "additional_properties": {
+                            "original": {
+                                "_id": "/politique/elections",
+                                "site": {
+                                    "site_tagline": null,
+                                    "site_url": null,
+                                    "site_title": "Elections : sondages, dates et résultats - Libération",
+                                    "site_about": "",
+                                    "pagebuilder_path_for_native_apps": null,
+                                    "site_description": "Suivez toute l'actu des différentes élections en France (présidentielle, municipales, départementales, sénatoriales, législatives) et en Europe.",
+                                    "site_keywords": null
+                                },
+                                "site_topper": {
+                                    "site_logo_image": ""
+                                },
+                                "social": {
+                                    "twitter": null,
+                                    "facebook": null,
+                                    "rss": null,
+                                    "instagram": null
+                                },
+                                "navigation": {
+                                    "nav_title": null
+                                },
+                                "_admin": {
+                                    "alias_ids": ["/politique/elections", "200002"]
+                                },
+                                "_website": "liberation",
+                                "name": "Elections",
+                                "order": {
+                                    "default": 2001,
+                                    "burgermenu": 2001,
+                                    "headernav": 2001,
+                                    "amp-menu": 2001,
+                                    "footer": 3001,
+                                    "footer2": 2002
+                                },
+                                "parent": {
+                                    "default": "/politique",
+                                    "burgermenu": "/politique",
+                                    "footer": "/politique",
+                                    "headernav": "/politique",
+                                    "amp-menu": "/politique",
+                                    "footer2": "/idees-et-debats"
+                                },
+                                "ancestors": {
+                                    "default": ["/politique"],
+                                    "burgermenu": ["/", "/politique"],
+                                    "footer": ["/", "/rubriques", "/politique"],
+                                    "headernav": ["/politique"],
+                                    "amp-menu": ["/", "/politique"],
+                                    "footer2": ["/idees-et-debats"]
+                                },
+                                "inactive": false,
+                                "node_type": "section"
+                            }
+                        },
+                        "_website_section_id": "liberation./politique/elections"
+                    },
+                    "website_url": "/politique/elections/de-gaulle-engueule-sapin-20211116_XRN6QRC3YVCS7A53KDTFF5XFR4/"
+                }
+            },
+            "publish_date": "2021-12-06T13:31:24.073Z",
+            "canonical_url": "/politique/elections/de-gaulle-engueule-sapin-20211116_XRN6QRC3YVCS7A53KDTFF5XFR4/",
+            "website": "liberation",
+            "website_url": "/politique/elections/de-gaulle-engueule-sapin-20211116_XRN6QRC3YVCS7A53KDTFF5XFR4/"
+        }
+    ]
+}

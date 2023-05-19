@@ -1,0 +1,55 @@
+/*============================================================================*\
+   Spaces definition
+\*============================================================================*/
+
+$spaces-base: calc(calc(8px / 16px) * 1rem);
+$spaces: (
+	'0': 0,
+	'x1': $spaces-base,
+	'x2': calc($spaces-base * 2),
+	'x3': calc($spaces-base * 3),
+	'x4': calc($spaces-base * 4),
+	'x5': calc($spaces-base * 5),
+	'x6': calc($spaces-base * 6),
+	'x7': calc($spaces-base * 7),
+	'x8': calc($spaces-base * 8),
+	'x10': calc($spaces-base * 10),
+	'x12': calc($spaces-base * 12),
+	'x14': calc($spaces-base * 14),
+	'x15': calc($spaces-base * 15),
+	'x16': calc($spaces-base * 16),
+	'x18': calc($spaces-base * 18),
+	'x20': calc($spaces-base * 20),
+	'x22': calc($spaces-base * 22),
+	'x24': calc($spaces-base * 24),
+	'x26': calc($spaces-base * 26),
+	'x28': calc($spaces-base * 28),
+	'x30': calc($spaces-base * 30),
+	'x32': calc($spaces-base * 32),
+	'x34': calc($spaces-base * 34),
+	'x36': calc($spaces-base * 36),
+	'x38': calc($spaces-base * 38),
+	'auto': auto,
+);
+
+
+
+/*============================================================================*\
+   Helper function
+\*============================================================================*/
+
+
+/**
+ * A function helper to facilitate the usage of the different
+ * spaces accross the whole projet.
+ *
+ * @param  {string} $size The name of the wanted size in the $spaces map
+ * @return {string}       The corresponding size
+ */
+@function space($space) {
+	@if not map-has-key($spaces, $space) {
+		@warn "No size found in $spaces map for `#{$space}`. Property omitted.";
+	}
+
+	@return map-get($spaces, $space);
+}

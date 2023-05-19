@@ -1,0 +1,28 @@
+$breakpoints: (
+	"xxs":    0,
+	"xs":   480,
+	"s":    768,
+	"m":    992,
+	"l":   1280,
+	"xl":  1440,
+	"xxl": 1920,
+);
+
+$white: #fdfdfd;
+$black: #000000;
+$grey: rgb(122, 122, 122);
+$grey-dark: #2e2e2e;
+$grey-xdark: #1a1a1a;
+$grey-light: rgb(218, 218, 218);
+$grey-xlight: rgb(243, 243, 243);
+$pink: #f96e75;
+$blue: #40BCD8;
+$red: #F24333;
+$green: #A1CF6B;
+$yellow: #FFAD36;
+$yellow-hover: #e2a01b;
+
+$box-shadow-light: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+
+$in-out-quad: cubic-bezier(0.455, 0.030, 0.515, 0.955);
+$in-out-cubic: cubic-bezier(0.645, 0.045, 0.355, 1.000);
