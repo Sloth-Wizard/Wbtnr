@@ -66,7 +66,7 @@ for serie in *; do
                 echo "Replacing diffs..."
 
                 # Move the webtoons to their final destination
-                mv ./$serie ../src/images/
+                mv ./$serie ../dist/webtoons/
             else
                 # No diffs so skip the replacement of the data and do nothing
                 echo "No diffs found, skipping..."
@@ -77,7 +77,7 @@ for serie in *; do
             echo "$serie has been created"
 
             # Move the webtoons to their final destination
-            mv ./$serie ../src/images/
+            mv ./$serie ../dist/webtoons/
         fi
     fi
 done
