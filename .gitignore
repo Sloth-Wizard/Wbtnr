@@ -8,4 +8,4 @@ webtoons
 
 # Generated data
 src/ts/data/ali.foff
-src/images/*
+src/webtoons/*

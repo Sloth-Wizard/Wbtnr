@@ -21,13 +21,19 @@ echo "Reading webtoons folder ..."
 
 dbName='ali.foff'
 
-mkdir -p './dist/webtoons'
+mkdir -p './src/webtoons'
 
 # Go into the webtoon folder and start scanning
 cd webtoons
 
+# Fix the path to the db
+dbPath="../$dbName"
+
 # Create database if it does not exist
 touch $dbName
+
+# Move to the series folder
+cd series
 
 # Scan directories to get series name
 for serie in *; do
@@ -62,42 +68,48 @@ for serie in *; do
         toInjectSerie+=${episodes::-2}
         
         # Find if the serie exists in the db.foff
-        if grep -q "$serie" $dbName
+        if grep -q "$serie" $dbPath
         then
             # Found so check for diffs on that line with the toInjectSerie string we are going to append
             echo "Checking for diffs"
 
             # Get the line number
-            #existingSerieLn=$(grep "$serie" $dbName | cut -f1 -d:)
+            #existingSerieLn=$(grep "$serie" $dbPath | cut -f1 -d:)
             #echo $exstingSerieLn
             
             # Get the data line where the serie is found
-            exstingSerie=$(grep "$serie" $dbName)
+            exstingSerie=$(grep "$serie" $dbPath)
 
             # Check for diffs between the data to be injected between the existing serie
             diffs=$(diff <(echo "$exstingSerie") <(echo "$toInjectSerie"))
             if [ ! -z "$diffs" ]
             then
                 # Found diffs
-                sed -i "s/$exstingSerie/$toInjectSerie/" $dbName
                 echo "Replacing diffs..."
+                sed -i "s/$exstingSerie/$toInjectSerie/" $dbPath
 
                 # Move the webtoons to their final destination
-                mv ./$serie ../dist/webtoons/
+                echo "Moving $serie to it's final destination"
+                # mv ./$serie ../../src/webtoons/
+                # While we dev we copy to keep the data in place for testing
+                cp -r ./$serie ../../src/webtoons
             else
                 # No diffs so skip the replacement of the data and do nothing
                 echo "No diffs found, skipping..."
             fi
         else
             # Not found, create a new line
-            echo "$toInjectSerie" >> $dbName
+            echo "$toInjectSerie" >> $dbPath
             echo "$serie has been created"
 
             # Move the webtoons to their final destination
-            mv ./$serie ../dist/webtoons/
+            echo "Moving $serie to it's final destination"
+            # mv ./$serie ../../src/webtoons/
+            # While we dev we copy to keep the data in place for testing
+            cp -r ./$serie ../../src/webtoons
         fi
     fi
 done
 
 # Then we copy the database to the correct place
-cp $dbName ../src/ts/data/
+cp $dbPath ../../src/ts/data/

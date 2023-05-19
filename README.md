@@ -14,3 +14,11 @@ Follow these steps before previewing in your browser
 npm i
 npm run build
 ```
+
+This will prepare all the files necesseray for the module to work
+
+After that you can start developing
+
+```sh
+npm run dev
+```
